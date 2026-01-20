@@ -8,7 +8,7 @@ const fs = require("fs")
 
   for (const achievement of data.elements) {
     for (const reward of achievement.rewards) {
-      if (reward.type == "AssortmentUnlock" || reward.type == "Item") {
+      if (reward.type == "AssortmentUnlock" || reward.type == "Item" || reward.type == "ProductionScheme") {
         reward.target = "removed"
 
         for (const item of reward.items) {
