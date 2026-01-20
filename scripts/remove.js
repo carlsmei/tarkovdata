@@ -2,7 +2,7 @@ const fs = require("fs")
 
 {
   console.log("Proccessing achievements")
-  const path = "raw/achievements/list.json"
+  const path = "achievements/list.json"
   const rawData = fs.readFileSync(path, "utf8");
   const data = JSON.parse(rawData);
 
@@ -27,7 +27,7 @@ const fs = require("fs")
 
 {
   console.log("Proccessing dialogues")
-  const path = "raw/dialogue/list.json"
+  const path = "dialogue/list.json"
   const rawData = fs.readFileSync(path, "utf8");
   const data = JSON.parse(rawData);
 
@@ -46,7 +46,7 @@ const fs = require("fs")
 
 {
   console.log("Proccessing endings")
-  const path = "raw/ending.json"
+  const path = "ending.json"
   const rawData = fs.readFileSync(path, "utf8");
   const data = JSON.parse(rawData);
 
@@ -71,7 +71,7 @@ const fs = require("fs")
 
 {
   console.log("Proccessing prestige")
-  const path = "raw/prestige.json"
+  const path = "prestige.json"
   const rawData = fs.readFileSync(path, "utf8");
   const data = JSON.parse(rawData);
 
@@ -96,7 +96,7 @@ const fs = require("fs")
 
 {
   console.log("Proccessing traders")
-  const path = "raw/trading/settings.json"
+  const path = "trading/settings.json"
   const rawData = fs.readFileSync(path, "utf8");
   const data = JSON.parse(rawData);
 
