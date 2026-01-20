@@ -47,6 +47,8 @@ echo ${DOCKER_TOKEN} | docker login ghcr.io -u ${DOCKER_LOGIN} --password-stdin
 docker pull ghcr.io/carlsmei/tarkovdata-deployer:latest
 docker run -it --rm -v .:/app/data ghcr.io/carlsmei/tarkovdata-deployer:latest -e ${EMAIL} -p ${PASSWORD} -o data -c data/.cache
 
+node scripts/remove.js
+
 if [[ -f "${POSTHOOK_FILE}" ]]; then
 	bash ${POSTHOOK_FILE}
 fi
