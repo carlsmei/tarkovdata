@@ -4242,12 +4242,12 @@
           "isHidden": false,
           "isImportant": false,
           "id": "68f68b1b70a1583e2f49f0e8",
-          "target": "696fc08344ba3e045408558b",
+          "target": "removed",
           "traderId": 10,
           "loyaltyLevel": 1,
           "items": [
             {
-              "_id": "696fc08344ba3e045408558b",
+              "_id": "removed",
               "_tpl": "68f11adfcd0babab2c0fb003",
               "upd": {
                 "SpawnedInSession": true,
