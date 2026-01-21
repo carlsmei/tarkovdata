@@ -48304,7 +48304,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -48312,11 +48312,11 @@
           "Id": "012debaa-649e-4aae-bcd1-c479bf8efbe0",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -917.4199,
-            "y": -58.32,
-            "z": 254.24
+            "x": -959.6883,
+            "y": -61.079998,
+            "z": 225.399185
           },
-          "Rotation": 271.08,
+          "Rotation": 96.10738,
           "Sides": [
             "Pmc"
           ]
@@ -48426,7 +48426,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -48434,9 +48434,9 @@
           "Id": "04a50f48-34c2-4e5d-9714-06988624c36a",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -936.449951,
-            "y": -55.47,
-            "z": 163.39003
+            "x": -933.149963,
+            "y": -56.91,
+            "z": 126.490005
           },
           "Rotation": 28.5099983,
           "Sides": [
@@ -48487,7 +48487,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -48517,7 +48517,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -48525,11 +48525,11 @@
           "Id": "085a9fa8-472e-4928-aa1e-ddb8f766e9a0",
           "Infiltration": "Village",
           "Position": {
-            "x": 409.830139,
-            "y": -54.32,
-            "z": 90.91002
+            "x": 130.470016,
+            "y": -32.93,
+            "z": -298.69
           },
-          "Rotation": 271.08,
+          "Rotation": 347.371643,
           "Sides": [
             "Pmc"
           ]
@@ -48547,7 +48547,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -48556,7 +48556,7 @@
           "Infiltration": "Village",
           "Position": {
             "x": 345.330139,
-            "y": -64.34,
+            "y": -64.33,
             "z": 333.19
           },
           "Rotation": 271.08,
@@ -48577,37 +48577,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "0a656c0b-40b8-4dfb-9821-eaf053da5bd8",
-          "Infiltration": "Village",
-          "Position": {
-            "x": 420.5501,
-            "y": -54.49,
-            "z": 153.660019
-          },
-          "Rotation": 230.53,
-          "Sides": [
-            "Pmc"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -48615,11 +48585,11 @@
           "Id": "0baf5b66-31b0-4c2f-8f2e-4f4320a25243",
           "Infiltration": "Village",
           "Position": {
-            "x": 338.3902,
+            "x": 334.5279,
             "y": -41.93,
-            "z": -272.38
+            "z": -269.235
           },
-          "Rotation": 349.17,
+          "Rotation": 307.8608,
           "Sides": [
             "Pmc"
           ]
@@ -48668,7 +48638,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -48676,11 +48646,11 @@
           "Id": "0cd882b4-e077-4f54-8d63-e368eb600ba7",
           "Infiltration": "Village",
           "Position": {
-            "x": 336.5401,
-            "y": -41.72,
-            "z": -269.62
+            "x": 331.316223,
+            "y": -42.18,
+            "z": -268.383
           },
-          "Rotation": 349.17,
+          "Rotation": 307.8608,
           "Sides": [
             "Pmc"
           ]
@@ -48729,7 +48699,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -48737,11 +48707,11 @@
           "Id": "0d4d2d64-9c67-4369-92c6-993bdcc2745f",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -872.579956,
-            "y": -43.98,
-            "z": 5.260025
+            "x": -876.9295,
+            "y": -45.33,
+            "z": 7.683487
           },
-          "Rotation": 319.98,
+          "Rotation": 112.2115,
           "Sides": [
             "Pmc"
           ]
@@ -48759,7 +48729,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -48767,11 +48737,11 @@
           "Id": "0e75428d-8a9e-468b-ba73-1275cd67171d",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -837.809937,
-            "y": -55.4400024,
-            "z": 279.81
+            "x": -330.774963,
+            "y": -51.079998,
+            "z": 374.102051
           },
-          "Rotation": 316.25,
+          "Rotation": 172.259842,
           "Sides": [
             "Pmc"
           ]
@@ -48883,7 +48853,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -48892,7 +48862,7 @@
           "Infiltration": "Village",
           "Position": {
             "x": 351.770081,
-            "y": -64.33,
+            "y": -64.3,
             "z": 334.900024
           },
           "Rotation": 271.08,
@@ -48913,7 +48883,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -48943,7 +48913,37 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "115f27fb-1c91-4224-8136-b95b185ee233",
+          "Infiltration": "Village",
+          "Position": {
+            "x": 132.606369,
+            "y": -32.920002,
+            "z": -295.2901
+          },
+          "Rotation": 347.371643,
+          "Sides": [
+            "Pmc"
+          ]
+        },
+        {
+          "BotZoneName": "",
+          "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -48951,11 +48951,11 @@
           "Id": "11941eb6-c3a3-4386-b873-8afa20560fcf",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -876.2899,
-            "y": -44.89,
-            "z": 6.17002869
+            "x": -873.2227,
+            "y": -44.1200027,
+            "z": 8.606613
           },
-          "Rotation": 2.969004,
+          "Rotation": 98.81515,
           "Sides": [
             "Pmc"
           ]
@@ -48973,37 +48973,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "12a9fde9-327d-4822-9f39-a77589cc8e6e",
-          "Infiltration": "Village",
-          "Position": {
-            "x": 447.020081,
-            "y": -54.3,
-            "z": 103.070023
-          },
-          "Rotation": 271.08,
-          "Sides": [
-            "Pmc"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -49011,9 +48981,9 @@
           "Id": "12c16199-687e-4ad7-a6e6-1ae437d0e676",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -810.4599,
-            "y": -59.17,
-            "z": 458.040039
+            "x": -785.8499,
+            "y": -59.46,
+            "z": 465.1001
           },
           "Rotation": 198.48,
           "Sides": [
@@ -49128,7 +49098,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -49136,11 +49106,11 @@
           "Id": "153e740f-bdd1-4bd7-8a6c-668b14616343",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -780.16,
-            "y": -40.2,
-            "z": 3.82002258
+            "x": -783.5336,
+            "y": -40.103,
+            "z": -10.3201752
           },
-          "Rotation": 12.65,
+          "Rotation": 92.57644,
           "Sides": [
             "Pmc"
           ]
@@ -49314,7 +49284,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -49322,11 +49292,11 @@
           "Id": "1aff115b-65d6-4b27-bbe1-4f147541caad",
           "Infiltration": "Village",
           "Position": {
-            "x": 269.370178,
-            "y": -56.42,
-            "z": 188.090012
+            "x": -38.2199249,
+            "y": -47.99,
+            "z": 306.82
           },
-          "Rotation": 271.08,
+          "Rotation": 201.886536,
           "Sides": [
             "Pmc"
           ]
@@ -49344,7 +49314,37 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "1b05072a-5bba-48de-aa3b-64325dbe2817",
+          "Infiltration": "Village",
+          "Position": {
+            "x": -184.709915,
+            "y": -46.49,
+            "z": 322.150024
+          },
+          "Rotation": 172.029663,
+          "Sides": [
+            "Pmc"
+          ]
+        },
+        {
+          "BotZoneName": "",
+          "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -49352,9 +49352,9 @@
           "Id": "1c009c5c-0593-443b-8ae3-3ecf3bcf89ed",
           "Infiltration": "Village",
           "Position": {
-            "x": 434.240051,
+            "x": 426.370178,
             "y": -54.28,
-            "z": 70.2500153
+            "z": 78.030014
           },
           "Rotation": 271.08,
           "Sides": [
@@ -49374,7 +49374,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -49382,9 +49382,9 @@
           "Id": "1d8bfebb-e39d-4bf4-9f24-9275e754b857",
           "Infiltration": "Village",
           "Position": {
-            "x": 433.95,
-            "y": -54.33,
-            "z": 67.82002
+            "x": 421.7901,
+            "y": -54.17,
+            "z": 76.030014
           },
           "Rotation": 271.08,
           "Sides": [
@@ -49456,6 +49456,36 @@
         {
           "BotZoneName": "",
           "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "2025dc0c-e22e-4ed3-9035-da82add06dec",
+          "Infiltration": "Village",
+          "Position": {
+            "x": 442.970032,
+            "y": -53.5,
+            "z": -9.189987
+          },
+          "Rotation": 271.08,
+          "Sides": [
+            "Pmc"
+          ]
+        },
+        {
+          "BotZoneName": "",
+          "Categories": [
             "Coop",
             "Opposite"
           ],
@@ -49511,6 +49541,36 @@
             "z": -193.42662
           },
           "Rotation": 271.08,
+          "Sides": [
+            "Pmc"
+          ]
+        },
+        {
+          "BotZoneName": "",
+          "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "22417e4d-2d96-4b66-a8df-1e4b8b686b9e",
+          "Infiltration": "Village",
+          "Position": {
+            "x": -271.3399,
+            "y": 0.419998169,
+            "z": -353.8
+          },
+          "Rotation": 8.98066,
           "Sides": [
             "Pmc"
           ]
@@ -49621,7 +49681,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -49629,11 +49689,11 @@
           "Id": "28048da3-ecaa-45a6-8c3c-ff5c2956fe7c",
           "Infiltration": "Village",
           "Position": {
-            "x": 342.230042,
-            "y": -56.29,
-            "z": 116.64003
+            "x": 227.044968,
+            "y": -53.368,
+            "z": 248.524
           },
-          "Rotation": 271.08,
+          "Rotation": 201.442764,
           "Sides": [
             "Pmc"
           ]
@@ -49774,7 +49834,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -49782,11 +49842,11 @@
           "Id": "2c11e954-f7e5-4a67-845c-54328c8b9c27",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -916.209961,
-            "y": -58.34,
-            "z": 252.64003
+            "x": -960.7531,
+            "y": -61.1,
+            "z": 227.098892
           },
-          "Rotation": 271.08,
+          "Rotation": 96.10738,
           "Sides": [
             "Pmc"
           ]
@@ -50054,7 +50114,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -50063,7 +50123,7 @@
           "Infiltration": "Village",
           "Position": {
             "x": 346.95,
-            "y": -64.76,
+            "y": -64.55,
             "z": 335.49
           },
           "Rotation": 271.08,
@@ -50084,7 +50144,37 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "34f940c1-9c85-486c-89b6-b74086f65736",
+          "Infiltration": "Riverside",
+          "Position": {
+            "x": -401.4699,
+            "y": -10.0600014,
+            "z": -375.529968
+          },
+          "Rotation": 350.2619,
+          "Sides": [
+            "Pmc"
+          ]
+        },
+        {
+          "BotZoneName": "",
+          "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -50114,7 +50204,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -50122,9 +50212,9 @@
           "Id": "373f1d18-1627-415d-8f9f-0acf5d415f4b",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -932.7399,
-            "y": -54.97,
-            "z": 160.74
+            "x": -929.439941,
+            "y": -56.8,
+            "z": 123.839981
           },
           "Rotation": 30.89,
           "Sides": [
@@ -50207,7 +50297,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -50215,11 +50305,11 @@
           "Id": "3a50464e-38ed-483d-8945-8c43ab5850e6",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -597.399963,
-            "y": -45.4100037,
-            "z": 155.610031
+            "x": -454.326,
+            "y": -48.13,
+            "z": 392.931335
           },
-          "Rotation": 88.89,
+          "Rotation": 153.265747,
           "Sides": [
             "Pmc"
           ]
@@ -50299,7 +50389,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -50307,9 +50397,9 @@
           "Id": "3eddbe61-12b7-4bc2-aa73-2087c2eb9f2b",
           "Infiltration": "Village",
           "Position": {
-            "x": 448.879944,
-            "y": -54.46,
-            "z": 188.720016
+            "x": 456.210022,
+            "y": -54.6,
+            "z": 194.52
           },
           "Rotation": 271.08,
           "Sides": [
@@ -50360,7 +50450,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -50368,9 +50458,9 @@
           "Id": "3fd55f19-ef15-4017-b468-cff2d9fe9b35",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -932.111938,
-            "y": -54.481,
-            "z": 162.864029
+            "x": -928.129944,
+            "y": -56.71,
+            "z": 125.970016
           },
           "Rotation": 33.26,
           "Sides": [
@@ -50421,7 +50511,37 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "4095485b-3394-4742-92d7-53eac80042f9",
+          "Infiltration": "Riverside",
+          "Position": {
+            "x": -407.609924,
+            "y": -10.8100014,
+            "z": -376.789978
+          },
+          "Rotation": 26.4700012,
+          "Sides": [
+            "Pmc"
+          ]
+        },
+        {
+          "BotZoneName": "",
+          "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -50429,11 +50549,11 @@
           "Id": "4161383c-4c28-487c-a858-7733e662bec4",
           "Infiltration": "Village",
           "Position": {
-            "x": 341.460022,
-            "y": -56.29,
-            "z": 122.720016
+            "x": 218.760056,
+            "y": -52.7,
+            "z": 246.73
           },
-          "Rotation": 271.08,
+          "Rotation": 177.045654,
           "Sides": [
             "Pmc"
           ]
@@ -50451,7 +50571,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -50459,41 +50579,11 @@
           "Id": "4349ecfb-ccd5-4a68-be17-d7fc1fe7cbb8",
           "Infiltration": "Village",
           "Position": {
-            "x": 335.399963,
+            "x": 332.7896,
             "y": -41.8500023,
-            "z": -273.149963
+            "z": -271.78717
           },
-          "Rotation": 349.17,
-          "Sides": [
-            "Pmc"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "438f6b11-098b-4b8a-96ed-954766b846e3",
-          "Infiltration": "Village",
-          "Position": {
-            "x": 282.750061,
-            "y": -56.24,
-            "z": 172.330032
-          },
-          "Rotation": 271.08,
+          "Rotation": 307.8608,
           "Sides": [
             "Pmc"
           ]
@@ -50574,7 +50664,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -50582,11 +50672,11 @@
           "Id": "4514864e-beb2-4e98-aa1e-c39d9da1db0c",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -596.4799,
-            "y": -45.4100037,
-            "z": 157.780045
+            "x": -451.971741,
+            "y": -48.13,
+            "z": 393.040222
           },
-          "Rotation": 108.770004,
+          "Rotation": 173.145767,
           "Sides": [
             "Pmc"
           ]
@@ -50635,7 +50725,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -50643,11 +50733,11 @@
           "Id": "474b3d06-7368-4b8d-9a4d-2c9c223b71b2",
           "Infiltration": "Village",
           "Position": {
-            "x": 442.0301,
-            "y": -54.3,
-            "z": 103.970016
+            "x": 90.4091,
+            "y": -49.547,
+            "z": 295.015
           },
-          "Rotation": 271.08,
+          "Rotation": 162.668533,
           "Sides": [
             "Pmc"
           ]
@@ -50697,7 +50787,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -50705,9 +50795,9 @@
           "Id": "47b2c388-edcf-4366-ad4b-f323db229951",
           "Infiltration": "Village",
           "Position": {
-            "x": 235.570114,
-            "y": -56.13,
-            "z": 129.720016
+            "x": 3.23002625,
+            "y": -25.3800011,
+            "z": -282.889954
           },
           "Rotation": 271.08,
           "Sides": [
@@ -50727,7 +50817,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -50735,11 +50825,11 @@
           "Id": "47f2d197-7e3e-49b6-803b-66fea4a4f34e",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -776.879944,
-            "y": -40.06,
-            "z": 2.35002136
+            "x": -784.217957,
+            "y": -39.58,
+            "z": -13.7129974
           },
-          "Rotation": 17.1399956,
+          "Rotation": 97.06639,
           "Sides": [
             "Pmc"
           ]
@@ -50773,36 +50863,6 @@
           "Rotation": 210.132233,
           "Sides": [
             "Savage"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "4b2a193c-2749-4497-93ba-75a8f6a3e218",
-          "Infiltration": "Riverside",
-          "Position": {
-            "x": -816.4799,
-            "y": -41.13,
-            "z": 2.33000183
-          },
-          "Rotation": 3.259948,
-          "Sides": [
-            "Pmc"
           ]
         },
         {
@@ -50881,7 +50941,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -50889,41 +50949,11 @@
           "Id": "4d45d646-18b4-4602-b06d-128c933eb919",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -693.9699,
-            "y": -59.57,
-            "z": 497.599976
+            "x": -647.4799,
+            "y": -59.567,
+            "z": 473.76
           },
-          "Rotation": 271.08,
-          "Sides": [
-            "Pmc"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "4e3a2705-96a2-467a-af09-a6f9b4a67f3e",
-          "Infiltration": "Village",
-          "Position": {
-            "x": 441.909973,
-            "y": -54.3,
-            "z": 106.030014
-          },
-          "Rotation": 271.08,
+          "Rotation": 162.533646,
           "Sides": [
             "Pmc"
           ]
@@ -50972,7 +51002,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -50980,9 +51010,9 @@
           "Id": "4f340491-d43e-4fd5-8447-65c925eacce6",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -808.54,
-            "y": -59.17,
-            "z": 457.39
+            "x": -783.93,
+            "y": -59.46,
+            "z": 464.450073
           },
           "Rotation": 199.92,
           "Sides": [
@@ -51018,36 +51048,6 @@
           "Rotation": 0,
           "Sides": [
             "Savage"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "50953d91-6601-4bca-ae2b-84708e1eff5d",
-          "Infiltration": "Village",
-          "Position": {
-            "x": 408.960022,
-            "y": -54.33,
-            "z": 168.61
-          },
-          "Rotation": 271.08,
-          "Sides": [
-            "Pmc"
           ]
         },
         {
@@ -51188,7 +51188,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -51196,9 +51196,9 @@
           "Id": "54571ae3-8329-4326-a812-678b5ead1d2e",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -667.779968,
-            "y": -54.45,
-            "z": 324.839966
+            "x": -532.980042,
+            "y": -59.534,
+            "z": 470.749939
           },
           "Rotation": 120.843109,
           "Sides": [
@@ -51249,7 +51249,67 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "567bac38-ce01-452a-a71f-1883bb7421d4",
+          "Infiltration": "Village",
+          "Position": {
+            "x": 92.42107,
+            "y": -48.0020027,
+            "z": 289.849
+          },
+          "Rotation": 163.6516,
+          "Sides": [
+            "Pmc"
+          ]
+        },
+        {
+          "BotZoneName": "",
+          "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "56a2f4b3-f96b-4bf3-8389-53c44debf129",
+          "Infiltration": "Village",
+          "Position": {
+            "x": 5.240036,
+            "y": -25.3800011,
+            "z": -282.639954
+          },
+          "Rotation": 271.08,
+          "Sides": [
+            "Pmc"
+          ]
+        },
+        {
+          "BotZoneName": "",
+          "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -51279,7 +51339,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -51287,11 +51347,11 @@
           "Id": "56d35730-0f36-4396-858d-b2128289b72a",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -837.1699,
-            "y": -55.5,
-            "z": 276.69
+            "x": -333.641663,
+            "y": -51.1399956,
+            "z": 372.7141
           },
-          "Rotation": 123.109993,
+          "Rotation": 198.86731,
           "Sides": [
             "Pmc"
           ]
@@ -51404,7 +51464,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -51434,7 +51494,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -51442,11 +51502,11 @@
           "Id": "58a5c474-0e2f-4f65-98d0-50106e504300",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -783.529968,
-            "y": -40.16,
-            "z": 4.92002869
+            "x": -783.0379,
+            "y": -39.902,
+            "z": -6.671982
           },
-          "Rotation": 9.06,
+          "Rotation": 88.9864349,
           "Sides": [
             "Pmc"
           ]
@@ -51620,7 +51680,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -51628,11 +51688,11 @@
           "Id": "5e1f7e2e-90b3-4dd8-bc05-5d708d558f4b",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -837.819946,
-            "y": -55.170002,
-            "z": 281.51
+            "x": -328.3299,
+            "y": -51.9,
+            "z": 374.289978
           },
-          "Rotation": 22.96,
+          "Rotation": 155.309525,
           "Sides": [
             "Pmc"
           ]
@@ -51650,19 +51710,19 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
           "DelayToCanSpawnSec": 4,
-          "Id": "5ed61a3a-1479-4875-af7a-9d4110220734",
+          "Id": "5f19b81b-8327-402c-a2d0-228574bc2a2b",
           "Infiltration": "Village",
           "Position": {
-            "x": 447.0501,
-            "y": -54.3,
-            "z": 104.86
+            "x": 440.649,
+            "y": -53.51,
+            "z": -22.6969757
           },
-          "Rotation": 271.08,
+          "Rotation": 272.725067,
           "Sides": [
             "Pmc"
           ]
@@ -51712,7 +51772,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -51720,11 +51780,11 @@
           "Id": "5fe5b3c3-0f56-44b9-b96e-36654b033117",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -689.09,
-            "y": -59.57,
-            "z": 497.410034
+            "x": -641.5999,
+            "y": -59.289,
+            "z": 474.57
           },
-          "Rotation": 271.08,
+          "Rotation": 165.591049,
           "Sides": [
             "Pmc"
           ]
@@ -51835,7 +51895,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -51843,11 +51903,11 @@
           "Id": "62462903-f1aa-4951-9e5b-5316a1eb11a0",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -836.779968,
-            "y": -55.56,
-            "z": 275.040039
+            "x": -335.144836,
+            "y": -51.1999969,
+            "z": 371.93042
           },
-          "Rotation": 199.74,
+          "Rotation": 190.17981,
           "Sides": [
             "Pmc"
           ]
@@ -51896,7 +51956,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -51904,9 +51964,9 @@
           "Id": "6420bc23-31ab-4b72-9149-90c6405f9852",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -665.9699,
-            "y": -54.56,
-            "z": 326.3
+            "x": -531.17,
+            "y": -59.463,
+            "z": 472.209961
           },
           "Rotation": 120.843109,
           "Sides": [
@@ -51926,7 +51986,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -51934,9 +51994,9 @@
           "Id": "6433d24d-cd7b-45a9-9383-04971236e848",
           "Infiltration": "Village",
           "Position": {
-            "x": 391.45,
-            "y": -60.17,
-            "z": 254.159988
+            "x": 394.220032,
+            "y": -60.51,
+            "z": 254.49
           },
           "Rotation": 271.08,
           "Sides": [
@@ -51987,7 +52047,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -51995,11 +52055,11 @@
           "Id": "653c7454-bcd7-41f9-9fab-8b978009c83b",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -919.329956,
-            "y": -58.25,
-            "z": 258.969971
+            "x": -958.199951,
+            "y": -61.01,
+            "z": 220.520035
           },
-          "Rotation": 271.08,
+          "Rotation": 96.10738,
           "Sides": [
             "Pmc"
           ]
@@ -52017,7 +52077,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -52025,11 +52085,11 @@
           "Id": "6581da65-0aa5-44da-a2cb-9bacb0ce7657",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -695.57,
-            "y": -59.57,
-            "z": 497.68
+            "x": -655.149963,
+            "y": -59.513,
+            "z": 474.599976
           },
-          "Rotation": 271.08,
+          "Rotation": 169.06897,
           "Sides": [
             "Pmc"
           ]
@@ -52047,7 +52107,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -52158,36 +52218,6 @@
           ]
         },
         {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "6b5f3dea-8c56-4203-a688-fc19b973ccc8",
-          "Infiltration": "Village",
-          "Position": {
-            "x": 408.480042,
-            "y": -54.44,
-            "z": 163.520035
-          },
-          "Rotation": 271.08,
-          "Sides": [
-            "Pmc"
-          ]
-        },
-        {
           "BotZoneName": "ZoneSmuglers",
           "Categories": [
             "Player",
@@ -52232,19 +52262,19 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
           "DelayToCanSpawnSec": 4,
-          "Id": "6cae38ee-8013-49e2-83e6-74e038360c5e",
-          "Infiltration": "Riverside",
+          "Id": "6dcbdea1-20f6-4b76-afcb-b286e5bc139a",
+          "Infiltration": "Village",
           "Position": {
-            "x": -817.199951,
-            "y": -41.24,
-            "z": 3.97001648
+            "x": 392.0401,
+            "y": -60.53,
+            "z": 256.14
           },
-          "Rotation": 340.76,
+          "Rotation": 271.08,
           "Sides": [
             "Pmc"
           ]
@@ -52262,19 +52292,19 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
           "DelayToCanSpawnSec": 4,
-          "Id": "6dcbdea1-20f6-4b76-afcb-b286e5bc139a",
+          "Id": "7174008f-04df-4902-a7e4-097c304692c7",
           "Infiltration": "Village",
           "Position": {
-            "x": 388.870178,
-            "y": -58.39,
-            "z": 252.770035
+            "x": 90.31999,
+            "y": -48.686,
+            "z": 290.486023
           },
-          "Rotation": 271.08,
+          "Rotation": 171.662354,
           "Sides": [
             "Pmc"
           ]
@@ -52308,36 +52338,6 @@
           "Rotation": 0,
           "Sides": [
             "Savage"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "75c38946-8152-4995-9d27-92bf29808f66",
-          "Infiltration": "Village",
-          "Position": {
-            "x": 235.570114,
-            "y": -56.12,
-            "z": 131.48
-          },
-          "Rotation": 271.08,
-          "Sides": [
-            "Pmc"
           ]
         },
         {
@@ -52384,7 +52384,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -52392,11 +52392,11 @@
           "Id": "76f61bd4-adb9-4376-9295-1806c79e4cd6",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -692.32,
-            "y": -59.57,
-            "z": 497.57
+            "x": -655.6999,
+            "y": -59.429,
+            "z": 476.289978
           },
-          "Rotation": 271.08,
+          "Rotation": 165.011444,
           "Sides": [
             "Pmc"
           ]
@@ -52477,7 +52477,37 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "785a2aa4-4e8d-4aca-b722-9fa8b26c0e25",
+          "Infiltration": "Village",
+          "Position": {
+            "x": -275.518982,
+            "y": 0.5699997,
+            "z": -353.432
+          },
+          "Rotation": 8.98066,
+          "Sides": [
+            "Pmc"
+          ]
+        },
+        {
+          "BotZoneName": "",
+          "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -52485,11 +52515,11 @@
           "Id": "7873d881-5bb9-4f2b-a0c4-35302ec1d706",
           "Infiltration": "Village",
           "Position": {
-            "x": 318.4002,
-            "y": -54.56,
-            "z": -144.009979
+            "x": 216.141891,
+            "y": -38.529,
+            "z": -285.4961
           },
-          "Rotation": 271.08,
+          "Rotation": 354.017853,
           "Sides": [
             "Pmc"
           ]
@@ -52538,7 +52568,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -52546,11 +52576,11 @@
           "Id": "7bbe3e83-685a-4fac-950c-64edb79e9573",
           "Infiltration": "Village",
           "Position": {
-            "x": 446.350159,
-            "y": -53.9,
-            "z": -74.739975
+            "x": 443.5501,
+            "y": -53.51,
+            "z": -17.9799957
           },
-          "Rotation": 271.08,
+          "Rotation": 272.725067,
           "Sides": [
             "Pmc"
           ]
@@ -52723,7 +52753,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -52753,7 +52783,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -52761,9 +52791,9 @@
           "Id": "7fa214c7-fc29-4dff-99a3-bb155d815c4a",
           "Infiltration": "Village",
           "Position": {
-            "x": 445.590149,
-            "y": -53.65,
-            "z": -71.33998
+            "x": 444.588928,
+            "y": -53.46,
+            "z": -14.4739838
           },
           "Rotation": 271.08,
           "Sides": [
@@ -52783,7 +52813,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -52791,11 +52821,11 @@
           "Id": "7fd13404-5b44-4bff-b18b-b42ff698b52c",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -876.529968,
-            "y": -43.85,
-            "z": 1.32002258
+            "x": -875.269958,
+            "y": -45.32,
+            "z": 13.010025
           },
-          "Rotation": 305.88,
+          "Rotation": 98.11149,
           "Sides": [
             "Pmc"
           ]
@@ -52813,7 +52843,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -52821,11 +52851,41 @@
           "Id": "8003226b-ab94-41da-81c7-aef012c52444",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -598.2299,
-            "y": -45.15,
-            "z": 154.060013
+            "x": -456.0833,
+            "y": -47.87,
+            "z": 393.009033
           },
-          "Rotation": 94.42,
+          "Rotation": 158.795731,
+          "Sides": [
+            "Pmc"
+          ]
+        },
+        {
+          "BotZoneName": "",
+          "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "801f1587-0969-44a3-9083-886784674699",
+          "Infiltration": "Village",
+          "Position": {
+            "x": -1.36994934,
+            "y": -25,
+            "z": -286.039978
+          },
+          "Rotation": 271.08,
           "Sides": [
             "Pmc"
           ]
@@ -52968,7 +53028,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -52976,9 +53036,9 @@
           "Id": "81edf0dc-9ee0-4483-a76e-a80dfc7ed31e",
           "Infiltration": "Village",
           "Position": {
-            "x": 433.7801,
-            "y": -54.31,
-            "z": 65.31001
+            "x": 418.870178,
+            "y": -54.3,
+            "z": 76.96001
           },
           "Rotation": 271.08,
           "Sides": [
@@ -53029,7 +53089,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -53037,9 +53097,9 @@
           "Id": "842e293c-842b-482b-a9df-8bf374a6811e",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -815.569946,
-            "y": -59.17,
-            "z": 458.469971
+            "x": -790.9599,
+            "y": -59.46,
+            "z": 465.530029
           },
           "Rotation": 162.78,
           "Sides": [
@@ -53059,7 +53119,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -53089,7 +53149,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -53097,9 +53157,9 @@
           "Id": "8526c84a-ce86-463a-9ea4-4acc7ce6a97b",
           "Infiltration": "Village",
           "Position": {
-            "x": 431.3902,
-            "y": -54.3,
-            "z": 66.68001
+            "x": 431.770081,
+            "y": -54.18,
+            "z": 62.39003
           },
           "Rotation": 271.08,
           "Sides": [
@@ -53119,19 +53179,19 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
           "DelayToCanSpawnSec": 4,
-          "Id": "85c38e4d-b7d2-4ae6-8a0f-cda5d0596d54",
+          "Id": "87770156-2196-4af6-bf02-042d7c6402aa",
           "Infiltration": "Village",
           "Position": {
-            "x": 233.840134,
-            "y": -56.14,
-            "z": 130.820023
+            "x": -182.904,
+            "y": -46.47,
+            "z": 327.586731
           },
-          "Rotation": 271.08,
+          "Rotation": 144.569687,
           "Sides": [
             "Pmc"
           ]
@@ -53211,7 +53271,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -53219,11 +53279,11 @@
           "Id": "89c56336-22f0-47ea-91e5-6a3866c9c0ed",
           "Infiltration": "Village",
           "Position": {
-            "x": 342.320129,
-            "y": -56.29,
-            "z": 114.560013
+            "x": 229.2,
+            "y": -53.46,
+            "z": 247.520035
           },
-          "Rotation": 271.08,
+          "Rotation": 201.442764,
           "Sides": [
             "Pmc"
           ]
@@ -53288,36 +53348,6 @@
           "Rotation": 0,
           "Sides": [
             "Savage"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "8b3b39ba-1662-4d2f-9757-9ceca0a1d311",
-          "Infiltration": "Riverside",
-          "Position": {
-            "x": -818.1099,
-            "y": -41.2,
-            "z": 2.36000061
-          },
-          "Rotation": 341.800049,
-          "Sides": [
-            "Pmc"
           ]
         },
         {
@@ -53488,7 +53518,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -53496,11 +53526,11 @@
           "Id": "914d1a86-0305-4e7c-b9ab-913ca92c1233",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -873.889954,
-            "y": -44.58,
-            "z": 8.420029
+            "x": -874.269958,
+            "y": -44.04,
+            "z": 5.1900177
           },
-          "Rotation": 328.44,
+          "Rotation": 104.84626,
           "Sides": [
             "Pmc"
           ]
@@ -53549,7 +53579,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -53557,9 +53587,9 @@
           "Id": "91ecd38d-841e-49fa-8c2c-8edae515393f",
           "Infiltration": "Village",
           "Position": {
-            "x": 388.31012,
-            "y": -59.16,
-            "z": 261.210022
+            "x": 391.45,
+            "y": -60.4,
+            "z": 261.099976
           },
           "Rotation": 271.08,
           "Sides": [
@@ -53641,67 +53671,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "9236eae8-6d72-4ac9-94b2-f75a282c53f5",
-          "Infiltration": "Village",
-          "Position": {
-            "x": 404.909973,
-            "y": -54.3,
-            "z": 83.58003
-          },
-          "Rotation": 271.08,
-          "Sides": [
-            "Pmc"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "92c3485f-0cf2-40f4-8b30-a7bed149d5c1",
-          "Infiltration": "Riverside",
-          "Position": {
-            "x": -814.779968,
-            "y": -41.08,
-            "z": 2.33000183
-          },
-          "Rotation": 42.29,
-          "Sides": [
-            "Pmc"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -53709,11 +53679,11 @@
           "Id": "92d8e295-31b6-49ed-a345-0d527f169f8c",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -683.5899,
-            "y": -40.09,
-            "z": 122.38002
+            "x": -405.019958,
+            "y": -11.1500015,
+            "z": -373.87
           },
-          "Rotation": 26.4700012,
+          "Rotation": 350.2619,
           "Sides": [
             "Pmc"
           ]
@@ -53979,7 +53949,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -54009,37 +53979,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "986d0d12-464b-4d21-beab-1dc3ca37017d",
-          "Infiltration": "Village",
-          "Position": {
-            "x": 282.600159,
-            "y": -56.24,
-            "z": 174.13002
-          },
-          "Rotation": 271.08,
-          "Sides": [
-            "Pmc"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -54047,9 +53987,9 @@
           "Id": "989704c5-1c3a-4ea2-9a53-4482b17a1faa",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -806.57,
-            "y": -59.24,
-            "z": 457.170044
+            "x": -781.96,
+            "y": -59.5300026,
+            "z": 464.2301
           },
           "Rotation": 189.35,
           "Sides": [
@@ -54069,7 +54009,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -54077,11 +54017,11 @@
           "Id": "993e3fea-466e-4e80-ace0-9ead90996f1d",
           "Infiltration": "Village",
           "Position": {
-            "x": 340.8001,
+            "x": 335.605042,
             "y": -42.05,
-            "z": -271.269958
+            "z": -266.810242
           },
-          "Rotation": 349.17,
+          "Rotation": 307.8608,
           "Sides": [
             "Pmc"
           ]
@@ -54115,36 +54055,6 @@
           "Rotation": 76.0734,
           "Sides": [
             "Savage"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "9970036b-c1af-4840-83b9-1e31b4e6cf77",
-          "Infiltration": "Village",
-          "Position": {
-            "x": 235.649948,
-            "y": -56.12,
-            "z": 133.270035
-          },
-          "Rotation": 271.08,
-          "Sides": [
-            "Pmc"
           ]
         },
         {
@@ -54191,7 +54101,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -54199,9 +54109,9 @@
           "Id": "9a5a8591-005c-4ab0-8231-3d3ed8480ebb",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -667.629944,
-            "y": -54.4,
-            "z": 326.170044
+            "x": -532.83,
+            "y": -59.484,
+            "z": 472.080017
           },
           "Rotation": 120.843109,
           "Sides": [
@@ -54253,7 +54163,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -54345,37 +54255,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "9f4a8692-feee-433b-96ad-e01829182d9e",
-          "Infiltration": "Village",
-          "Position": {
-            "x": 442.659973,
-            "y": -53.73,
-            "z": -72.3899841
-          },
-          "Rotation": 271.08,
-          "Sides": [
-            "Pmc"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -54383,41 +54263,11 @@
           "Id": "9fcd3f72-046c-4c1e-a22c-5d07a395f52d",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -918.179932,
-            "y": -58.3,
-            "z": 255.88002
+            "x": -959.0748,
+            "y": -60.8,
+            "z": 223.698563
           },
-          "Rotation": 271.08,
-          "Sides": [
-            "Pmc"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "a00348b8-05c3-4ce5-a471-69ced43de90e",
-          "Infiltration": "Village",
-          "Position": {
-            "x": 444.1402,
-            "y": -53.76,
-            "z": -67.969986
-          },
-          "Rotation": 271.08,
+          "Rotation": 96.10738,
           "Sides": [
             "Pmc"
           ]
@@ -54466,7 +54316,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -54474,9 +54324,9 @@
           "Id": "a1087f16-1d66-46f6-be69-7e1c7f50c684",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -667.9299,
-            "y": -54.7,
-            "z": 323.56
+            "x": -533.129944,
+            "y": -59.61,
+            "z": 469.469971
           },
           "Rotation": 120.843109,
           "Sides": [
@@ -54496,7 +54346,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -54526,7 +54376,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -54534,11 +54384,11 @@
           "Id": "a21768bc-7a14-447d-a682-90715c7e6f7f",
           "Infiltration": "Village",
           "Position": {
-            "x": 342.230042,
-            "y": -56.29,
-            "z": 118.64003
+            "x": 225.228317,
+            "y": -53.066,
+            "z": 249.35408
           },
-          "Rotation": 271.08,
+          "Rotation": 201.442764,
           "Sides": [
             "Pmc"
           ]
@@ -54556,7 +54406,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -54586,7 +54436,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -54594,9 +54444,9 @@
           "Id": "a53d95b3-84f3-431a-8436-830ea88578e8",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -812.959961,
-            "y": -59.21,
-            "z": 458.43
+            "x": -788.3499,
+            "y": -59.5,
+            "z": 465.490051
           },
           "Rotation": 192.16,
           "Sides": [
@@ -54616,7 +54466,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -54758,36 +54608,6 @@
           ]
         },
         {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "a7c7a365-ea94-481f-b15a-c880eb6df6e6",
-          "Infiltration": "Riverside",
-          "Position": {
-            "x": -684.5699,
-            "y": -39.27,
-            "z": 123.930008
-          },
-          "Rotation": 10.1100016,
-          "Sides": [
-            "Pmc"
-          ]
-        },
-        {
           "BotZoneName": "ZoneGreenHouses",
           "Categories": [
             "Player",
@@ -54832,7 +54652,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -54840,11 +54660,11 @@
           "Id": "a8f40aef-a808-4b51-9961-9d3f9914d22b",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -690.6999,
-            "y": -59.57,
-            "z": 497.469971
+            "x": -644.879944,
+            "y": -59.56,
+            "z": 473.95
           },
-          "Rotation": 271.08,
+          "Rotation": 165.591049,
           "Sides": [
             "Pmc"
           ]
@@ -54893,37 +54713,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "aaeee0f3-0a91-46b0-bc4a-9c6bcc31d097",
-          "Infiltration": "Riverside",
-          "Position": {
-            "x": -683.379944,
-            "y": -39.88,
-            "z": 119.13002
-          },
-          "Rotation": 79.99,
-          "Sides": [
-            "Pmc"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -54931,11 +54721,11 @@
           "Id": "ab31a334-dc31-4113-96d5-7fdd00a7a84b",
           "Infiltration": "Village",
           "Position": {
-            "x": 235.780075,
-            "y": -55.98,
-            "z": 125.530014
+            "x": -271.93,
+            "y": 0.5699997,
+            "z": -350.669983
           },
-          "Rotation": 271.08,
+          "Rotation": 8.98066,
           "Sides": [
             "Pmc"
           ]
@@ -54969,6 +54759,36 @@
           "Rotation": 277.5449,
           "Sides": [
             "Savage"
+          ]
+        },
+        {
+          "BotZoneName": "",
+          "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "ac0a4fff-677f-4ba8-9608-4b3b6fe19c75",
+          "Infiltration": "Riverside",
+          "Position": {
+            "x": -414.609924,
+            "y": -11.4500008,
+            "z": -375.3
+          },
+          "Rotation": 26.4700012,
+          "Sides": [
+            "Pmc"
           ]
         },
         {
@@ -55015,7 +54835,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -55023,9 +54843,9 @@
           "Id": "b0ca8c3f-6d94-4e03-8e1f-5b3996478e2f",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -666.1799,
-            "y": -54.56,
-            "z": 324.74
+            "x": -531.379944,
+            "y": -59.644,
+            "z": 470.649963
           },
           "Rotation": 120.843109,
           "Sides": [
@@ -55076,7 +54896,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -55089,6 +54909,36 @@
             "z": 188.780014
           },
           "Rotation": 271.08,
+          "Sides": [
+            "Pmc"
+          ]
+        },
+        {
+          "BotZoneName": "",
+          "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "b138dcab-e085-4ada-afe5-1661bbc53822",
+          "Infiltration": "Village",
+          "Position": {
+            "x": 133.990036,
+            "y": -32.93,
+            "z": -297.669983
+          },
+          "Rotation": 347.371643,
           "Sides": [
             "Pmc"
           ]
@@ -55137,37 +54987,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "b1f26a54-31e6-448e-a890-706cbc56420d",
-          "Infiltration": "Riverside",
-          "Position": {
-            "x": -683.039856,
-            "y": -40.03,
-            "z": 120.710007
-          },
-          "Rotation": 39.11,
-          "Sides": [
-            "Pmc"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -55175,9 +54995,9 @@
           "Id": "b2ea260b-dceb-44cc-b764-ddd328da57fd",
           "Infiltration": "Village",
           "Position": {
-            "x": 433.669983,
-            "y": -54.3,
-            "z": 62.7100067
+            "x": 427.258118,
+            "y": -54.35,
+            "z": 62.00502
           },
           "Rotation": 271.08,
           "Sides": [
@@ -55197,7 +55017,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -55322,7 +55142,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -55330,11 +55150,11 @@
           "Id": "b7c84f7e-ea0b-471b-8608-df2186e054e0",
           "Infiltration": "Village",
           "Position": {
-            "x": 412.359924,
-            "y": -54.43,
-            "z": 154.73
+            "x": -183.635818,
+            "y": -46.49,
+            "z": 324.8626
           },
-          "Rotation": 248.009979,
+          "Rotation": 172.029663,
           "Sides": [
             "Pmc"
           ]
@@ -55384,19 +55204,49 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
           "DelayToCanSpawnSec": 4,
-          "Id": "b90ace25-5546-4bf4-9670-b6ac0ac3c476",
+          "Id": "b9d72b1a-41b5-4372-a723-370323f9115b",
           "Infiltration": "Village",
           "Position": {
-            "x": 404.830139,
-            "y": -54.3,
-            "z": 90.04002
+            "x": 445.010071,
+            "y": -53.29,
+            "z": -23.5299835
           },
-          "Rotation": 271.08,
+          "Rotation": 272.725067,
+          "Sides": [
+            "Pmc"
+          ]
+        },
+        {
+          "BotZoneName": "",
+          "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "ba27687a-1af9-4504-b5fa-d6ea708e6666",
+          "Infiltration": "Village",
+          "Position": {
+            "x": -269.06,
+            "y": 0.419998169,
+            "z": -354.75
+          },
+          "Rotation": 8.98066,
           "Sides": [
             "Pmc"
           ]
@@ -55461,6 +55311,36 @@
           "Rotation": 0,
           "Sides": [
             "Savage"
+          ]
+        },
+        {
+          "BotZoneName": "",
+          "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "bb0825b7-c323-4994-8e8a-27e7ebfc0092",
+          "Infiltration": "Village",
+          "Position": {
+            "x": -34.9999542,
+            "y": -48.81,
+            "z": 306.45
+          },
+          "Rotation": 201.886536,
+          "Sides": [
+            "Pmc"
           ]
         },
         {
@@ -55570,7 +55450,37 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "bd96d741-89fc-429a-ad1f-440945a81f5e",
+          "Infiltration": "Village",
+          "Position": {
+            "x": -187.191727,
+            "y": -46.49,
+            "z": 324.905884
+          },
+          "Rotation": 172.029663,
+          "Sides": [
+            "Pmc"
+          ]
+        },
+        {
+          "BotZoneName": "",
+          "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -55578,9 +55488,9 @@
           "Id": "bf0c91c9-6ee4-4fd3-8f03-9c02d79355ce",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -934.569946,
-            "y": -54.56,
-            "z": 164.200027
+            "x": -931.4799,
+            "y": -56.94,
+            "z": 127.000015
           },
           "Rotation": 33.75,
           "Sides": [
@@ -55631,7 +55541,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -55639,11 +55549,11 @@
           "Id": "bf77b78e-1f10-45f9-9f56-022636656e57",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -918.779968,
-            "y": -58.27,
-            "z": 257.420044
+            "x": -958.6119,
+            "y": -61.03,
+            "z": 222.112137
           },
-          "Rotation": 271.08,
+          "Rotation": 96.10738,
           "Sides": [
             "Pmc"
           ]
@@ -55692,7 +55602,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -55700,9 +55610,9 @@
           "Id": "c018a1cc-6aca-45bf-80b6-b0dacc6b796f",
           "Infiltration": "Village",
           "Position": {
-            "x": 388.8001,
-            "y": -60.23,
-            "z": 249.969986
+            "x": 395.730042,
+            "y": -59.82,
+            "z": 248.36
           },
           "Rotation": 271.08,
           "Sides": [
@@ -55753,7 +55663,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -55761,11 +55671,11 @@
           "Id": "c0cfd064-a695-45d7-8be9-e1af339c58b1",
           "Infiltration": "Village",
           "Position": {
-            "x": 415.18,
-            "y": -54.41,
-            "z": 154.680008
+            "x": -186.459915,
+            "y": -46.47,
+            "z": 327.63
           },
-          "Rotation": 220.55,
+          "Rotation": 144.569687,
           "Sides": [
             "Pmc"
           ]
@@ -55783,7 +55693,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -55791,11 +55701,11 @@
           "Id": "c0f12c99-a339-46f3-be4b-fa6dbb58184d",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -681.379944,
-            "y": -40.92,
-            "z": 120.08
+            "x": -405.149963,
+            "y": -9.84,
+            "z": -377.169983
           },
-          "Rotation": 32.49001,
+          "Rotation": 17.6257534,
           "Sides": [
             "Pmc"
           ]
@@ -55876,7 +55786,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -55884,11 +55794,11 @@
           "Id": "c2b1f531-0bb7-48f1-9ec8-9adf34f5260e",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -872.259949,
-            "y": -44.01,
-            "z": 7.96000671
+            "x": -875.9548,
+            "y": -44.89,
+            "z": 5.145218
           },
-          "Rotation": 319.63,
+          "Rotation": 97.12281,
           "Sides": [
             "Pmc"
           ]
@@ -55969,7 +55879,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -55977,9 +55887,9 @@
           "Id": "c5425f62-ced4-4198-9a77-dc186b09fee9",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -934.2699,
-            "y": -55.26,
-            "z": 162.39003
+            "x": -930.9699,
+            "y": -56.6999969,
+            "z": 125.490005
           },
           "Rotation": 30.3,
           "Sides": [
@@ -56030,7 +55940,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -56038,11 +55948,11 @@
           "Id": "c65fa07d-bbea-4dbc-a1a8-de4e6cc58a38",
           "Infiltration": "Village",
           "Position": {
-            "x": 315.970032,
-            "y": -54.56,
-            "z": -138.359985
+            "x": 221.45,
+            "y": -38.529,
+            "z": -282.39
           },
-          "Rotation": 271.08,
+          "Rotation": 354.017853,
           "Sides": [
             "Pmc"
           ]
@@ -56298,6 +56208,36 @@
           ]
         },
         {
+          "BotZoneName": "",
+          "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "cbf4cade-2e3a-4124-aea0-ba1280d048cb",
+          "Infiltration": "Village",
+          "Position": {
+            "x": -38.0399933,
+            "y": -47.8100052,
+            "z": 302.400024
+          },
+          "Rotation": 201.886536,
+          "Sides": [
+            "Pmc"
+          ]
+        },
+        {
           "BotZoneName": "ZoneMeteoStation",
           "Categories": [
             "Player",
@@ -56373,7 +56313,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -56381,11 +56321,41 @@
           "Id": "cd50d306-1cfa-4829-a915-043e547288af",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -595.16,
-            "y": -45.0700035,
-            "z": 159.190018
+            "x": -450.129944,
+            "y": -48,
+            "z": 392.460022
           },
-          "Rotation": 96.22,
+          "Rotation": 160.595749,
+          "Sides": [
+            "Pmc"
+          ]
+        },
+        {
+          "BotZoneName": "",
+          "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "cf4913a8-c235-4ac9-9af3-f371f18aab14",
+          "Infiltration": "Village",
+          "Position": {
+            "x": 3.43998718,
+            "y": -25.23,
+            "z": -287.079956
+          },
+          "Rotation": 271.08,
           "Sides": [
             "Pmc"
           ]
@@ -56419,6 +56389,36 @@
           "Rotation": 0,
           "Sides": [
             "Savage"
+          ]
+        },
+        {
+          "BotZoneName": "",
+          "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "cfc6843e-5a4d-4c54-a687-5740815cb14e",
+          "Infiltration": "Village",
+          "Position": {
+            "x": 95.58305,
+            "y": -48.249,
+            "z": 289.339
+          },
+          "Rotation": 196.797989,
+          "Sides": [
+            "Pmc"
           ]
         },
         {
@@ -56590,19 +56590,19 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
           "DelayToCanSpawnSec": 4,
-          "Id": "d848ab74-083b-4454-94d3-3f5cb54b6f7a",
+          "Id": "d7853fa4-6c02-4840-b90a-950288a0f62d",
           "Infiltration": "Village",
           "Position": {
-            "x": 350.5401,
-            "y": -63.69,
-            "z": 332.75
+            "x": -38.0168,
+            "y": -47.8100052,
+            "z": 304.624573
           },
-          "Rotation": 271.08,
+          "Rotation": 201.886536,
           "Sides": [
             "Pmc"
           ]
@@ -56620,17 +56620,17 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
           "DelayToCanSpawnSec": 4,
-          "Id": "d92df5a8-fe9d-4a40-839f-5f6652251b7d",
+          "Id": "d848ab74-083b-4454-94d3-3f5cb54b6f7a",
           "Infiltration": "Village",
           "Position": {
-            "x": 443.570129,
-            "y": -53.71,
-            "z": -75.58998
+            "x": 350.56012,
+            "y": -63.79,
+            "z": 333.090027
           },
           "Rotation": 271.08,
           "Sides": [
@@ -56681,7 +56681,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -56689,41 +56689,11 @@
           "Id": "dba2b2cf-a399-4193-926d-17dd61d15435",
           "Infiltration": "Village",
           "Position": {
-            "x": 315.740051,
-            "y": -54.56,
-            "z": -142.139984
+            "x": 215.510056,
+            "y": -39.84,
+            "z": -278.63
           },
-          "Rotation": 271.08,
-          "Sides": [
-            "Pmc"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "dd45d07f-ac7b-4aaa-9a2f-643365a0b3d3",
-          "Infiltration": "Riverside",
-          "Position": {
-            "x": -815.559937,
-            "y": -41.19,
-            "z": 3.92002869
-          },
-          "Rotation": 1.4,
+          "Rotation": 354.017853,
           "Sides": [
             "Pmc"
           ]
@@ -56772,7 +56742,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -56780,11 +56750,11 @@
           "Id": "df0eb3d7-47e4-4d21-8225-fd64893ff772",
           "Infiltration": "Village",
           "Position": {
-            "x": 442.0301,
-            "y": -54.3,
-            "z": 101.810013
+            "x": 92.70708,
+            "y": -49.052,
+            "z": 292.586975
           },
-          "Rotation": 271.08,
+          "Rotation": 196.797989,
           "Sides": [
             "Pmc"
           ]
@@ -56802,7 +56772,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -56810,11 +56780,11 @@
           "Id": "e019f4bd-bb0b-44f1-b0b8-fe93384b2974",
           "Infiltration": "Village",
           "Position": {
-            "x": 267.3902,
-            "y": -56.24,
-            "z": 187.12001
+            "x": -34.79683,
+            "y": -48.6300049,
+            "z": 304.254578
           },
-          "Rotation": 271.08,
+          "Rotation": 201.886536,
           "Sides": [
             "Pmc"
           ]
@@ -56894,7 +56864,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -56902,11 +56872,11 @@
           "Id": "e0dfb1f3-189b-4da7-bf05-8e68e4346f13",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -778.56,
-            "y": -40.27,
-            "z": 2.97001648
+            "x": -784.090637,
+            "y": -39.928,
+            "z": -12.0442657
           },
-          "Rotation": 6.340001,
+          "Rotation": 86.26643,
           "Sides": [
             "Pmc"
           ]
@@ -56940,36 +56910,6 @@
           "Rotation": 275.844757,
           "Sides": [
             "Savage"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "e2a13b2e-16d3-420f-af05-905069917b66",
-          "Infiltration": "Village",
-          "Position": {
-            "x": 280.770081,
-            "y": -56.24,
-            "z": 175.250015
-          },
-          "Rotation": 271.08,
-          "Sides": [
-            "Pmc"
           ]
         },
         {
@@ -57069,6 +57009,36 @@
         {
           "BotZoneName": "",
           "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "e510c34e-816e-4c6d-85da-e873822dd4b6",
+          "Infiltration": "Village",
+          "Position": {
+            "x": -273.239075,
+            "y": 0.5699997,
+            "z": -354.382019
+          },
+          "Rotation": 8.98066,
+          "Sides": [
+            "Pmc"
+          ]
+        },
+        {
+          "BotZoneName": "",
+          "Categories": [
             "Coop",
             "Opposite"
           ],
@@ -57126,36 +57096,6 @@
           "Rotation": 76.0734,
           "Sides": [
             "Savage"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 50
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "e815c01c-4f47-4a3e-9f36-b4ace91d79b4",
-          "Infiltration": "Village",
-          "Position": {
-            "x": 404.980042,
-            "y": -54.3,
-            "z": 85.5200043
-          },
-          "Rotation": 271.08,
-          "Sides": [
-            "Pmc"
           ]
         },
         {
@@ -57266,7 +57206,37 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "e9276ade-8425-4923-adce-71b8326a62ff",
+          "Infiltration": "Village",
+          "Position": {
+            "x": 130.100021,
+            "y": -32.920002,
+            "z": -293.32
+          },
+          "Rotation": 347.371643,
+          "Sides": [
+            "Pmc"
+          ]
+        },
+        {
+          "BotZoneName": "",
+          "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -57274,11 +57244,11 @@
           "Id": "ea5c5ca2-148f-4ca4-a428-b0a7ce84921d",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -837.7199,
-            "y": -55.47,
-            "z": 278.280029
+            "x": -332.809875,
+            "y": -51.32,
+            "z": 374.909973
           },
-          "Rotation": 302.84,
+          "Rotation": 180.38887,
           "Sides": [
             "Pmc"
           ]
@@ -57513,7 +57483,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -57521,11 +57491,11 @@
           "Id": "ef2f2161-0120-46af-8fe6-06fcf8bbb5f7",
           "Infiltration": "Village",
           "Position": {
-            "x": 341.990051,
-            "y": -42.16,
-            "z": -267.94
+            "x": 334.301331,
+            "y": -42.59,
+            "z": -263.523132
           },
-          "Rotation": 349.17,
+          "Rotation": 307.8608,
           "Sides": [
             "Pmc"
           ]
@@ -57543,7 +57513,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -57551,9 +57521,9 @@
           "Id": "ef4e1953-ed0d-42c5-b1e8-6b58db5c6f44",
           "Infiltration": "Village",
           "Position": {
-            "x": 387.879944,
-            "y": -60.33,
-            "z": 263.87
+            "x": 392.110168,
+            "y": -60.09,
+            "z": 264.150024
           },
           "Rotation": 271.08,
           "Sides": [
@@ -57623,6 +57593,36 @@
           ]
         },
         {
+          "BotZoneName": "",
+          "Categories": [
+            "Player"
+          ],
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 65
+            }
+          },
+          "CorePointId": 0,
+          "DelayToCanSpawnSec": 4,
+          "Id": "f1d81a36-066d-4654-b0b5-9d89eef4086d",
+          "Infiltration": "Village",
+          "Position": {
+            "x": 5.449997,
+            "y": -25.23,
+            "z": -286.829956
+          },
+          "Rotation": 271.08,
+          "Sides": [
+            "Pmc"
+          ]
+        },
+        {
           "BotZoneName": "ZoneStartVillage",
           "Categories": [
             "Player",
@@ -57666,7 +57666,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -57674,11 +57674,11 @@
           "Id": "f2cce129-3b6d-4d74-a6f7-a7e909b33814",
           "Infiltration": "Village",
           "Position": {
-            "x": 407.19,
-            "y": -54.31,
-            "z": 90.13002
+            "x": 129.086349,
+            "y": -32.920002,
+            "z": -296.31012
           },
-          "Rotation": 271.08,
+          "Rotation": 347.371643,
           "Sides": [
             "Pmc"
           ]
@@ -57758,7 +57758,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -57766,11 +57766,11 @@
           "Id": "f3fab340-0d6e-49d3-abf9-609f10262382",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -598.55,
-            "y": -44.6400032,
-            "z": 152.14003
+            "x": -457.952942,
+            "y": -48.12,
+            "z": 392.4679
           },
-          "Rotation": 111.609993,
+          "Rotation": 175.985764,
           "Sides": [
             "Pmc"
           ]
@@ -57788,7 +57788,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -57796,11 +57796,11 @@
           "Id": "f451a986-9344-43f7-a6cd-4c2c25993bd6",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -781.769958,
-            "y": -40.22,
-            "z": 4.45002747
+            "x": -782.805969,
+            "y": -40.1,
+            "z": -4.80397034
           },
-          "Rotation": 15.250001,
+          "Rotation": 95.17642,
           "Sides": [
             "Pmc"
           ]
@@ -57942,7 +57942,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -57950,11 +57950,11 @@
           "Id": "f883d201-beea-44b0-981b-3e5416ca1d3d",
           "Infiltration": "Village",
           "Position": {
-            "x": 316.06012,
-            "y": -54.56,
-            "z": -144.089981
+            "x": 213.669968,
+            "y": -38.529,
+            "z": -284.51
           },
-          "Rotation": 271.08,
+          "Rotation": 354.017853,
           "Sides": [
             "Pmc"
           ]
@@ -58003,7 +58003,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -58011,11 +58011,11 @@
           "Id": "fa5ef3eb-f86a-4f3d-a4b4-11105d318930",
           "Infiltration": "Village",
           "Position": {
-            "x": 315.860168,
-            "y": -54.56,
-            "z": -140.279984
+            "x": 219.510056,
+            "y": -39.74,
+            "z": -278.24
           },
-          "Rotation": 271.08,
+          "Rotation": 354.017853,
           "Sides": [
             "Pmc"
           ]
@@ -58033,7 +58033,7 @@
                 "y": 0,
                 "z": 0
               },
-              "Radius": 50
+              "Radius": 65
             }
           },
           "CorePointId": 0,
@@ -58041,11 +58041,11 @@
           "Id": "fb7bd71f-8177-4417-8e29-916904ca2d8a",
           "Infiltration": "Village",
           "Position": {
-            "x": 341.460022,
-            "y": -56.29,
-            "z": 120.560013
+            "x": 223.159958,
+            "y": -52.907,
+            "z": 249.3
           },
-          "Rotation": 271.08,
+          "Rotation": 201.442764,
           "Sides": [
             "Pmc"
           ]
@@ -76669,10 +76669,10 @@
         {
           "BossChance": 100,
           "BossDifficult": "normal",
-          "BossEscortAmount": "3",
+          "BossEscortAmount": "0",
           "BossEscortDifficult": "normal",
-          "BossEscortType": "followerSanitar",
-          "BossName": "bossSanitar",
+          "BossEscortType": "bossKilla",
+          "BossName": "bossTagilla",
           "BossZone": "Zone2ScavPort29",
           "Delay": 40,
           "ForceSpawn": true,
@@ -76681,11 +76681,11 @@
           "ShowOnTarkovMap": true,
           "ShowOnTarkovMapPvE": true,
           "SpawnMode": [
-            "regular",
-            "pve"
+            "pve",
+            "regular"
           ],
           "Supports": null,
-          "Time": 5790,
+          "Time": 5902,
           "TriggerId": "T4",
           "TriggerName": "botEvent"
         }
@@ -83590,10 +83590,10 @@
         {
           "BossChance": 100,
           "BossDifficult": "normal",
-          "BossEscortAmount": "0",
+          "BossEscortAmount": "3",
           "BossEscortDifficult": "normal",
-          "BossEscortType": "bossKilla",
-          "BossName": "bossTagilla",
+          "BossEscortType": "followerGluharSecurity",
+          "BossName": "bossGluhar",
           "BossZone": "Zone2ScavPort29",
           "Delay": 40,
           "ForceSpawn": true,
@@ -83602,11 +83602,11 @@
           "ShowOnTarkovMap": true,
           "ShowOnTarkovMapPvE": true,
           "SpawnMode": [
-            "pve",
-            "regular"
+            "regular",
+            "pve"
           ],
           "Supports": null,
-          "Time": 5902,
+          "Time": 5790,
           "TriggerId": "T4",
           "TriggerName": "botEvent"
         }
