@@ -48312,11 +48312,11 @@
           "Id": "012debaa-649e-4aae-bcd1-c479bf8efbe0",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -959.6883,
-            "y": -61.079998,
-            "z": 225.399185
+            "x": -898.135132,
+            "y": -54.8099976,
+            "z": 200.560318
           },
-          "Rotation": 96.10738,
+          "Rotation": 78.7769,
           "Sides": [
             "Pmc"
           ]
@@ -48434,11 +48434,11 @@
           "Id": "04a50f48-34c2-4e5d-9714-06988624c36a",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -933.149963,
-            "y": -56.91,
-            "z": 126.490005
+            "x": -926.454,
+            "y": -55.8,
+            "z": 99.46266
           },
-          "Rotation": 28.5099983,
+          "Rotation": 119.262947,
           "Sides": [
             "Pmc"
           ]
@@ -49842,11 +49842,11 @@
           "Id": "2c11e954-f7e5-4a67-845c-54328c8b9c27",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -960.7531,
-            "y": -61.1,
-            "z": 227.098892
+            "x": -899.189941,
+            "y": -55.335,
+            "z": 204.08
           },
-          "Rotation": 96.10738,
+          "Rotation": 70.89779,
           "Sides": [
             "Pmc"
           ]
@@ -50212,11 +50212,11 @@
           "Id": "373f1d18-1627-415d-8f9f-0acf5d415f4b",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -929.439941,
-            "y": -56.8,
-            "z": 123.839981
+            "x": -929.1524,
+            "y": -55.69,
+            "z": 95.787735
           },
-          "Rotation": 30.89,
+          "Rotation": 121.642937,
           "Sides": [
             "Pmc"
           ]
@@ -50458,11 +50458,11 @@
           "Id": "3fd55f19-ef15-4017-b468-cff2d9fe9b35",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -928.129944,
-            "y": -56.71,
-            "z": 125.970016
+            "x": -927.0399,
+            "y": -55.6,
+            "z": 94.45003
           },
-          "Rotation": 33.26,
+          "Rotation": 124.012932,
           "Sides": [
             "Pmc"
           ]
@@ -52055,11 +52055,11 @@
           "Id": "653c7454-bcd7-41f9-9fab-8b978009c83b",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -958.199951,
-            "y": -61.01,
-            "z": 220.520035
+            "x": -898.749939,
+            "y": -55.2399979,
+            "z": 202.350021
           },
-          "Rotation": 96.10738,
+          "Rotation": 69.91833,
           "Sides": [
             "Pmc"
           ]
@@ -54263,11 +54263,11 @@
           "Id": "9fcd3f72-046c-4c1e-a22c-5d07a395f52d",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -959.0748,
-            "y": -60.8,
-            "z": 223.698563
+            "x": -897.521667,
+            "y": -54.7,
+            "z": 198.8597
           },
-          "Rotation": 96.10738,
+          "Rotation": 73.48924,
           "Sides": [
             "Pmc"
           ]
@@ -55488,11 +55488,11 @@
           "Id": "bf0c91c9-6ee4-4fd3-8f03-9c02d79355ce",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -931.4799,
-            "y": -56.94,
-            "z": 127.000015
+            "x": -925.9658,
+            "y": -55.829998,
+            "z": 97.78615
           },
-          "Rotation": 33.75,
+          "Rotation": 124.502945,
           "Sides": [
             "Pmc"
           ]
@@ -55549,11 +55549,11 @@
           "Id": "bf77b78e-1f10-45f9-9f56-022636656e57",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -958.6119,
-            "y": -61.03,
-            "z": 222.112137
+            "x": -896.129944,
+            "y": -54.54,
+            "z": 198.010025
           },
-          "Rotation": 96.10738,
+          "Rotation": 65.93945,
           "Sides": [
             "Pmc"
           ]
@@ -55887,11 +55887,11 @@
           "Id": "c5425f62-ced4-4198-9a77-dc186b09fee9",
           "Infiltration": "Riverside",
           "Position": {
-            "x": -930.9699,
-            "y": -56.6999969,
-            "z": 125.490005
+            "x": -927.482361,
+            "y": -55.5899963,
+            "z": 97.2960052
           },
-          "Rotation": 30.3,
+          "Rotation": 121.052933,
           "Sides": [
             "Pmc"
           ]
@@ -76669,10 +76669,10 @@
         {
           "BossChance": 100,
           "BossDifficult": "normal",
-          "BossEscortAmount": "0",
+          "BossEscortAmount": "3",
           "BossEscortDifficult": "normal",
-          "BossEscortType": "bossKilla",
-          "BossName": "bossTagilla",
+          "BossEscortType": "followerGluharSecurity",
+          "BossName": "bossGluhar",
           "BossZone": "Zone2ScavPort29",
           "Delay": 40,
           "ForceSpawn": true,
@@ -76681,11 +76681,11 @@
           "ShowOnTarkovMap": true,
           "ShowOnTarkovMapPvE": true,
           "SpawnMode": [
-            "pve",
-            "regular"
+            "regular",
+            "pve"
           ],
           "Supports": null,
-          "Time": 5902,
+          "Time": 5790,
           "TriggerId": "T4",
           "TriggerName": "botEvent"
         }
