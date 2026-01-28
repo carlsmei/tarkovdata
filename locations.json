@@ -76525,8 +76525,8 @@
           "BossDifficult": "normal",
           "BossEscortAmount": "3",
           "BossEscortDifficult": "normal",
-          "BossEscortType": "followerBully",
-          "BossName": "bossBully",
+          "BossEscortType": "followerSanitar",
+          "BossName": "bossSanitar",
           "BossZone": "Zone2ScavPort29",
           "Delay": 40,
           "ForceSpawn": true,
@@ -83444,10 +83444,10 @@
         {
           "BossChance": 100,
           "BossDifficult": "normal",
-          "BossEscortAmount": "3",
+          "BossEscortAmount": "0",
           "BossEscortDifficult": "normal",
-          "BossEscortType": "followerGluharSecurity",
-          "BossName": "bossGluhar",
+          "BossEscortType": "bossKilla",
+          "BossName": "bossTagilla",
           "BossZone": "Zone2ScavPort29",
           "Delay": 40,
           "ForceSpawn": true,
@@ -83456,11 +83456,11 @@
           "ShowOnTarkovMap": true,
           "ShowOnTarkovMapPvE": true,
           "SpawnMode": [
-            "regular",
-            "pve"
+            "pve",
+            "regular"
           ],
           "Supports": null,
-          "Time": 5790,
+          "Time": 5902,
           "TriggerId": "T4",
           "TriggerName": "botEvent"
         }
