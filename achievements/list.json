@@ -10636,6 +10636,133 @@
       "progressBarEnabled": false,
       "side": "All",
       "index": 9984
+    },
+    {
+      "id": "6984ab58ee0ae2c0d5075f33",
+      "imageUrl": "/files/achievement/6985cb86842b74a5090abe4d.png",
+      "assetPath": "",
+      "rewards": [
+        {
+          "unknown": false,
+          "gameMode": [],
+          "availableInGameEditions": [
+            "regular",
+            "pve"
+          ],
+          "illustrationConfig": {
+            "image": "",
+            "bigImage": "",
+            "isBigImage": false
+          },
+          "isHidden": false,
+          "isImportant": false,
+          "id": "6984aba1a5e0068034200480",
+          "target": "removed",
+          "value": 1,
+          "isEncoded": false,
+          "findInRaid": true,
+          "items": [
+            {
+              "_id": "removed",
+              "_tpl": "697cdbfd14e9320980057487",
+              "upd": {
+                "SpawnedInSession": true,
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "isDeliverByMail": true,
+          "type": "Item"
+        },
+        {
+          "unknown": false,
+          "gameMode": [],
+          "availableInGameEditions": [
+            "regular",
+            "pve"
+          ],
+          "illustrationConfig": {
+            "image": "",
+            "bigImage": "",
+            "isBigImage": false
+          },
+          "isHidden": false,
+          "isImportant": false,
+          "id": "6984abb1860c7abe64d616d4",
+          "target": "removed",
+          "value": 1,
+          "isEncoded": false,
+          "findInRaid": true,
+          "items": [
+            {
+              "_id": "removed",
+              "_tpl": "697cddb414e932098005748d",
+              "upd": {
+                "SpawnedInSession": true,
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "isDeliverByMail": true,
+          "type": "Item"
+        },
+        {
+          "unknown": false,
+          "gameMode": [],
+          "availableInGameEditions": [
+            "regular",
+            "pve"
+          ],
+          "illustrationConfig": {
+            "image": "",
+            "bigImage": "",
+            "isBigImage": false
+          },
+          "isHidden": false,
+          "isImportant": false,
+          "id": "6984abca03977820fff2cbc3",
+          "target": "697cdc8a156bcff2ec04a127",
+          "type": "CustomizationDirect"
+        }
+      ],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "index": 1,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6842c24eb6cae20ef7c85566",
+            "props": {
+              "index": 1,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
+            "questNoteId": null,
+            "conditionType": "Block"
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": false,
+      "showProgress": false,
+      "prefab": "",
+      "rarity": "Legendary",
+      "hidden": true,
+      "showConditions": false,
+      "progressBarEnabled": false,
+      "side": "All",
+      "index": 99999
     }
   ]
 }

@@ -24,7 +24,7 @@
             "fromTraderId": null
           },
           "questNoteId": null,
-          "value": 55,
+          "value": 47,
           "compareMethod": ">=",
           "conditionType": "Level"
         },
@@ -611,7 +611,6 @@
               "5e54f6af86f7742199090bf3",
               "5c12688486f77426843c7d32",
               "67586af7036d7f3da60c3612",
-              "67586b7e49c2fa592e0d8ed9",
               "5bc9be8fd4351e00334cae6e",
               "62a08f4c4f842e1bd12d9d62",
               "5d1b385e86f774252167b98a",
@@ -765,7 +764,7 @@
             "fromTraderId": null
           },
           "questNoteId": null,
-          "value": 55,
+          "value": 47,
           "compareMethod": ">=",
           "conditionType": "Level"
         },
@@ -1501,7 +1500,6 @@
               "5e54f6af86f7742199090bf3",
               "5c12688486f77426843c7d32",
               "67586af7036d7f3da60c3612",
-              "67586b7e49c2fa592e0d8ed9",
               "5bc9be8fd4351e00334cae6e",
               "62a08f4c4f842e1bd12d9d62",
               "5d1b385e86f774252167b98a",
@@ -1571,7 +1569,7 @@
             "fromTraderId": null
           },
           "questNoteId": null,
-          "value": 55,
+          "value": 47,
           "compareMethod": ">=",
           "conditionType": "Level"
         },
@@ -2357,7 +2355,7 @@
             "fromTraderId": null
           },
           "questNoteId": null,
-          "value": 55,
+          "value": 47,
           "compareMethod": ">=",
           "conditionType": "Level"
         },
@@ -3071,7 +3069,6 @@
               "5e54f6af86f7742199090bf3",
               "5c12688486f77426843c7d32",
               "67586af7036d7f3da60c3612",
-              "67586b7e49c2fa592e0d8ed9",
               "5bc9be8fd4351e00334cae6e",
               "62a08f4c4f842e1bd12d9d62",
               "5d1b385e86f774252167b98a",
@@ -3141,7 +3138,7 @@
             "fromTraderId": null
           },
           "questNoteId": null,
-          "value": 55,
+          "value": 47,
           "compareMethod": ">=",
           "conditionType": "Level"
         },
@@ -3887,7 +3884,6 @@
               "5e54f6af86f7742199090bf3",
               "5c12688486f77426843c7d32",
               "67586af7036d7f3da60c3612",
-              "67586b7e49c2fa592e0d8ed9",
               "5bc9be8fd4351e00334cae6e",
               "62a08f4c4f842e1bd12d9d62",
               "5d1b385e86f774252167b98a",
@@ -3957,7 +3953,7 @@
             "fromTraderId": null
           },
           "questNoteId": null,
-          "value": 55,
+          "value": 47,
           "compareMethod": ">=",
           "conditionType": "Level"
         },

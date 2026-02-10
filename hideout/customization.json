@@ -2273,6 +2273,39 @@
       "systemName": "Ceiling_EchoOfBattle",
       "isEnabled": true,
       "itemId": "68fb6abe365db7fe8a0e25ef"
+    },
+    {
+      "id": "697cdcfd397fe7d54748a20d",
+      "conditions": [
+        {
+          "index": 0,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "697cdd1e61e7056d010cf7d3",
+          "props": {
+            "index": 0,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
+          "questNoteId": null,
+          "conditionType": "Block"
+        }
+      ],
+      "type": "shootingRangeMark",
+      "index": 0,
+      "systemName": "Target_Kryakov",
+      "isEnabled": true,
+      "itemId": "697cdc8a156bcff2ec04a127"
     }
   ],
   "slots": [

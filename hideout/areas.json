@@ -4700,648 +4700,6 @@
     "parentArea": null
   },
   {
-    "_id": "637b39f02e873739ec490215",
-    "type": 22,
-    "enabled": true,
-    "needsFuel": false,
-    "takeFromSlotLocked": false,
-    "craftGivesExp": false,
-    "displayLevel": false,
-    "requirements": [],
-    "stages": {
-      "0": {
-        "requirements": [],
-        "bonuses": [],
-        "slots": 0,
-        "constructionTime": 0.0,
-        "description": "",
-        "container": "",
-        "autoUpgrade": false,
-        "displayInterface": false,
-        "improvements": [],
-        "globalCounterId": null
-      },
-      "1": {
-        "requirements": [
-          {
-            "areaType": 7,
-            "requiredLevel": 1,
-            "type": "Area"
-          },
-          {
-            "areaType": 6,
-            "requiredLevel": 1,
-            "type": "Area"
-          }
-        ],
-        "bonuses": [],
-        "slots": 0,
-        "constructionTime": 0.0,
-        "description": "",
-        "container": "",
-        "autoUpgrade": true,
-        "displayInterface": true,
-        "improvements": [],
-        "globalCounterId": null
-      },
-      "2": {
-        "requirements": [],
-        "bonuses": [
-          {
-            "id": "64f5b9e5fa34f11b3807571e",
-            "value": 5,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "FuelConsumption"
-          },
-          {
-            "id": "64f5b9e5fa34f11b3807571f",
-            "value": -5.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "EnergyRegeneration"
-          },
-          {
-            "id": "64f5b9e5fa34f11b38075720",
-            "value": -5.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "HealthRegeneration"
-          },
-          {
-            "id": "64f5b9e5fa34f11b38075721",
-            "value": -3.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "ExperienceRate"
-          },
-          {
-            "id": "64f5b9e5fa34f11b38075722",
-            "value": -3.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "skillType": "Physical",
-            "type": "SkillGroupLevelingBoost"
-          }
-        ],
-        "slots": 0,
-        "constructionTime": 43200.0,
-        "description": "",
-        "container": "",
-        "autoUpgrade": true,
-        "displayInterface": true,
-        "improvements": [
-          {
-            "id": "639199277a9178252d38c98f",
-            "requirements": [
-              {
-                "templateId": "5e2af47786f7746d404f3aaa",
-                "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "isSpawnedInSession": false,
-                "type": "Item"
-              }
-            ],
-            "bonuses": [
-              {
-                "id": "64f5b9e5fa34f11b38075719",
-                "value": -2,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "type": "FuelConsumption"
-              },
-              {
-                "id": "64f5b9e5fa34f11b3807571a",
-                "value": 2.0,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "type": "EnergyRegeneration"
-              },
-              {
-                "id": "64f5b9e5fa34f11b3807571b",
-                "value": 2.0,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "type": "HealthRegeneration"
-              },
-              {
-                "id": "64f5b9e5fa34f11b3807571c",
-                "value": 2.0,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "type": "ExperienceRate"
-              },
-              {
-                "id": "64f5b9e5fa34f11b3807571d",
-                "value": 2.0,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "skillType": "Physical",
-                "type": "SkillGroupLevelingBoost"
-              }
-            ],
-            "improvementTime": 120.0
-          }
-        ],
-        "globalCounterId": null
-      },
-      "3": {
-        "requirements": [],
-        "bonuses": [
-          {
-            "id": "64f5b9e5fa34f11b38075732",
-            "value": 5,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "FuelConsumption"
-          },
-          {
-            "id": "64f5b9e5fa34f11b38075733",
-            "value": -5.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "EnergyRegeneration"
-          },
-          {
-            "id": "64f5b9e5fa34f11b38075734",
-            "value": -5.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "HealthRegeneration"
-          },
-          {
-            "id": "64f5b9e5fa34f11b38075735",
-            "value": -3.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "ExperienceRate"
-          },
-          {
-            "id": "64f5b9e5fa34f11b38075736",
-            "value": -3.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "skillType": "Physical",
-            "type": "SkillGroupLevelingBoost"
-          }
-        ],
-        "slots": 0,
-        "constructionTime": 86400.0,
-        "description": "",
-        "container": "",
-        "autoUpgrade": true,
-        "displayInterface": true,
-        "improvements": [
-          {
-            "id": "639199277a9178252d38c990",
-            "requirements": [
-              {
-                "templateId": "5e2af47786f7746d404f3aaa",
-                "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "isSpawnedInSession": false,
-                "type": "Item"
-              }
-            ],
-            "bonuses": [
-              {
-                "id": "64f5b9e5fa34f11b3807572d",
-                "value": -5,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "type": "FuelConsumption"
-              },
-              {
-                "id": "64f5b9e5fa34f11b3807572e",
-                "value": 5.0,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "type": "EnergyRegeneration"
-              },
-              {
-                "id": "64f5b9e5fa34f11b3807572f",
-                "value": 5.0,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "type": "HealthRegeneration"
-              },
-              {
-                "id": "64f5b9e5fa34f11b38075730",
-                "value": 3.0,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "type": "ExperienceRate"
-              },
-              {
-                "id": "64f5b9e5fa34f11b38075731",
-                "value": 3.0,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "skillType": "Combat",
-                "type": "SkillGroupLevelingBoost"
-              }
-            ],
-            "improvementTime": 300.0
-          }
-        ],
-        "globalCounterId": null
-      },
-      "4": {
-        "requirements": [
-          {
-            "templateId": "63a0b208f444d32d6f03ea1e",
-            "count": 1,
-            "isFunctional": false,
-            "isEncoded": false,
-            "isSpawnedInSession": true,
-            "type": "Item"
-          }
-        ],
-        "bonuses": [
-          {
-            "id": "64f5b9e5fa34f11b38075746",
-            "value": 5,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "FuelConsumption"
-          },
-          {
-            "id": "64f5b9e5fa34f11b38075747",
-            "value": -5.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "EnergyRegeneration"
-          },
-          {
-            "id": "64f5b9e5fa34f11b38075748",
-            "value": -5.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "HealthRegeneration"
-          },
-          {
-            "id": "64f5b9e5fa34f11b38075749",
-            "value": -3.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "ExperienceRate"
-          },
-          {
-            "id": "64f5b9e5fa34f11b3807574a",
-            "value": -3.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "skillType": "Physical",
-            "type": "SkillGroupLevelingBoost"
-          }
-        ],
-        "slots": 0,
-        "constructionTime": 10800.0,
-        "description": "",
-        "container": "",
-        "autoUpgrade": false,
-        "displayInterface": true,
-        "improvements": [
-          {
-            "id": "639199277a9178252d38c991",
-            "requirements": [
-              {
-                "templateId": "5e2af47786f7746d404f3aaa",
-                "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "isSpawnedInSession": false,
-                "type": "Item"
-              }
-            ],
-            "bonuses": [
-              {
-                "id": "64f5b9e5fa34f11b38075741",
-                "value": -8,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "type": "FuelConsumption"
-              },
-              {
-                "id": "64f5b9e5fa34f11b38075742",
-                "value": 8.0,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "type": "EnergyRegeneration"
-              },
-              {
-                "id": "64f5b9e5fa34f11b38075743",
-                "value": 8.0,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "type": "HealthRegeneration"
-              },
-              {
-                "id": "64f5b9e5fa34f11b38075744",
-                "value": 5.0,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "type": "ExperienceRate"
-              },
-              {
-                "id": "64f5b9e5fa34f11b38075745",
-                "value": 5.0,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "skillType": "Physical",
-                "type": "SkillGroupLevelingBoost"
-              }
-            ],
-            "improvementTime": 300.0
-          }
-        ],
-        "globalCounterId": null
-      },
-      "5": {
-        "requirements": [
-          {
-            "templateId": "5d40419286f774318526545f",
-            "count": 1,
-            "isFunctional": false,
-            "isEncoded": false,
-            "isSpawnedInSession": true,
-            "type": "Item"
-          },
-          {
-            "templateId": "590c2e1186f77425357b6124",
-            "count": 1,
-            "isFunctional": false,
-            "isEncoded": false,
-            "isSpawnedInSession": true,
-            "type": "Item"
-          }
-        ],
-        "bonuses": [
-          {
-            "id": "64f5b9e5fa34f11b3807575a",
-            "value": 5,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "FuelConsumption"
-          },
-          {
-            "id": "64f5b9e5fa34f11b3807575b",
-            "value": -5.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "EnergyRegeneration"
-          },
-          {
-            "id": "64f5b9e5fa34f11b3807575c",
-            "value": -5.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "HealthRegeneration"
-          },
-          {
-            "id": "64f5b9e5fa34f11b3807575d",
-            "value": -3.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "ExperienceRate"
-          },
-          {
-            "id": "64f5b9e5fa34f11b3807575e",
-            "value": -3.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "skillType": "Physical",
-            "type": "SkillGroupLevelingBoost"
-          }
-        ],
-        "slots": 0,
-        "constructionTime": 10800.0,
-        "description": "",
-        "container": "",
-        "autoUpgrade": false,
-        "displayInterface": true,
-        "improvements": [
-          {
-            "id": "639199277a9178252d38c992",
-            "requirements": [
-              {
-                "templateId": "5e2af47786f7746d404f3aaa",
-                "count": 1,
-                "isFunctional": false,
-                "isEncoded": false,
-                "isSpawnedInSession": false,
-                "type": "Item"
-              }
-            ],
-            "bonuses": [
-              {
-                "id": "64f5b9e5fa34f11b38075755",
-                "value": -10,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "type": "FuelConsumption"
-              },
-              {
-                "id": "64f5b9e5fa34f11b38075756",
-                "value": 10.0,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "type": "EnergyRegeneration"
-              },
-              {
-                "id": "64f5b9e5fa34f11b38075757",
-                "value": 10.0,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "type": "HealthRegeneration"
-              },
-              {
-                "id": "64f5b9e5fa34f11b38075758",
-                "value": 6.0,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "type": "ExperienceRate"
-              },
-              {
-                "id": "64f5b9e5fa34f11b38075759",
-                "value": 6.0,
-                "passive": true,
-                "production": false,
-                "visible": true,
-                "skillType": "Physical",
-                "type": "SkillGroupLevelingBoost"
-              }
-            ],
-            "improvementTime": 300.0
-          }
-        ],
-        "globalCounterId": null
-      },
-      "6": {
-        "requirements": [
-          {
-            "templateId": "59e35cbb86f7741778269d83",
-            "count": 2,
-            "isFunctional": false,
-            "isEncoded": false,
-            "isSpawnedInSession": false,
-            "type": "Item"
-          },
-          {
-            "templateId": "57347c1124597737fb1379e3",
-            "count": 1,
-            "isFunctional": false,
-            "isEncoded": false,
-            "isSpawnedInSession": false,
-            "type": "Item"
-          },
-          {
-            "templateId": "590c2e1186f77425357b6124",
-            "count": 1,
-            "isFunctional": false,
-            "isEncoded": false,
-            "isSpawnedInSession": true,
-            "type": "Item"
-          },
-          {
-            "templateId": "5af04b6486f774195a3ebb49",
-            "count": 1,
-            "isFunctional": false,
-            "isEncoded": false,
-            "isSpawnedInSession": true,
-            "type": "Item"
-          },
-          {
-            "templateId": "61bf7b6302b3924be92fa8c3",
-            "count": 5,
-            "isFunctional": false,
-            "isEncoded": false,
-            "isSpawnedInSession": false,
-            "type": "Item"
-          },
-          {
-            "templateId": "590c346786f77423e50ed342",
-            "count": 1,
-            "isFunctional": false,
-            "isEncoded": false,
-            "isSpawnedInSession": false,
-            "type": "Item"
-          },
-          {
-            "templateId": "5c06779c86f77426e00dd782",
-            "count": 2,
-            "isFunctional": false,
-            "isEncoded": false,
-            "isSpawnedInSession": false,
-            "type": "Item"
-          },
-          {
-            "templateId": "5d1b392c86f77425243e98fe",
-            "count": 2,
-            "isFunctional": false,
-            "isEncoded": false,
-            "isSpawnedInSession": false,
-            "type": "Item"
-          }
-        ],
-        "bonuses": [
-          {
-            "id": "64f5b9e5fa34f11b38075764",
-            "value": -20,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "FuelConsumption"
-          },
-          {
-            "id": "64f5b9e5fa34f11b38075765",
-            "value": 20.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "EnergyRegeneration"
-          },
-          {
-            "id": "64f5b9e5fa34f11b38075766",
-            "value": 20.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "HealthRegeneration"
-          },
-          {
-            "id": "64f5b9e5fa34f11b38075767",
-            "value": 12.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "type": "ExperienceRate"
-          },
-          {
-            "id": "64f5b9e5fa34f11b38075768",
-            "value": 12.0,
-            "passive": true,
-            "production": false,
-            "visible": true,
-            "skillType": "Physical",
-            "type": "SkillGroupLevelingBoost"
-          }
-        ],
-        "slots": 0,
-        "constructionTime": 43200.0,
-        "description": "",
-        "container": "",
-        "autoUpgrade": false,
-        "displayInterface": false,
-        "improvements": [],
-        "globalCounterId": null
-      }
-    },
-    "enableAreaRequirements": false,
-    "parentArea": null
-  },
-  {
     "_id": "63db64cbf9963741dc0d741f",
     "type": 24,
     "enabled": true,
@@ -6083,6 +5441,648 @@
         "container": "66740c3739b9da6ce402ee65",
         "autoUpgrade": false,
         "displayInterface": true,
+        "improvements": [],
+        "globalCounterId": null
+      }
+    },
+    "enableAreaRequirements": false,
+    "parentArea": null
+  },
+  {
+    "_id": "637b39f02e873739ec490215",
+    "type": 22,
+    "enabled": true,
+    "needsFuel": false,
+    "takeFromSlotLocked": false,
+    "craftGivesExp": false,
+    "displayLevel": false,
+    "requirements": [],
+    "stages": {
+      "0": {
+        "requirements": [],
+        "bonuses": [],
+        "slots": 0,
+        "constructionTime": 0.0,
+        "description": "",
+        "container": "",
+        "autoUpgrade": false,
+        "displayInterface": false,
+        "improvements": [],
+        "globalCounterId": null
+      },
+      "1": {
+        "requirements": [
+          {
+            "areaType": 7,
+            "requiredLevel": 1,
+            "type": "Area"
+          },
+          {
+            "areaType": 6,
+            "requiredLevel": 1,
+            "type": "Area"
+          }
+        ],
+        "bonuses": [],
+        "slots": 0,
+        "constructionTime": 0.0,
+        "description": "",
+        "container": "",
+        "autoUpgrade": true,
+        "displayInterface": true,
+        "improvements": [],
+        "globalCounterId": null
+      },
+      "2": {
+        "requirements": [],
+        "bonuses": [
+          {
+            "id": "64f5b9e5fa34f11b3807571e",
+            "value": 5,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "FuelConsumption"
+          },
+          {
+            "id": "64f5b9e5fa34f11b3807571f",
+            "value": -5.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "EnergyRegeneration"
+          },
+          {
+            "id": "64f5b9e5fa34f11b38075720",
+            "value": -5.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "HealthRegeneration"
+          },
+          {
+            "id": "64f5b9e5fa34f11b38075721",
+            "value": -3.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "ExperienceRate"
+          },
+          {
+            "id": "64f5b9e5fa34f11b38075722",
+            "value": -3.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "skillType": "Physical",
+            "type": "SkillGroupLevelingBoost"
+          }
+        ],
+        "slots": 0,
+        "constructionTime": 43200.0,
+        "description": "",
+        "container": "",
+        "autoUpgrade": true,
+        "displayInterface": true,
+        "improvements": [
+          {
+            "id": "639199277a9178252d38c98f",
+            "requirements": [
+              {
+                "templateId": "5e2af47786f7746d404f3aaa",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "isSpawnedInSession": false,
+                "type": "Item"
+              }
+            ],
+            "bonuses": [
+              {
+                "id": "64f5b9e5fa34f11b38075719",
+                "value": -2,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "type": "FuelConsumption"
+              },
+              {
+                "id": "64f5b9e5fa34f11b3807571a",
+                "value": 2.0,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "type": "EnergyRegeneration"
+              },
+              {
+                "id": "64f5b9e5fa34f11b3807571b",
+                "value": 2.0,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "type": "HealthRegeneration"
+              },
+              {
+                "id": "64f5b9e5fa34f11b3807571c",
+                "value": 2.0,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "type": "ExperienceRate"
+              },
+              {
+                "id": "64f5b9e5fa34f11b3807571d",
+                "value": 2.0,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "skillType": "Physical",
+                "type": "SkillGroupLevelingBoost"
+              }
+            ],
+            "improvementTime": 120.0
+          }
+        ],
+        "globalCounterId": null
+      },
+      "3": {
+        "requirements": [],
+        "bonuses": [
+          {
+            "id": "64f5b9e5fa34f11b38075732",
+            "value": 5,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "FuelConsumption"
+          },
+          {
+            "id": "64f5b9e5fa34f11b38075733",
+            "value": -5.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "EnergyRegeneration"
+          },
+          {
+            "id": "64f5b9e5fa34f11b38075734",
+            "value": -5.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "HealthRegeneration"
+          },
+          {
+            "id": "64f5b9e5fa34f11b38075735",
+            "value": -3.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "ExperienceRate"
+          },
+          {
+            "id": "64f5b9e5fa34f11b38075736",
+            "value": -3.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "skillType": "Physical",
+            "type": "SkillGroupLevelingBoost"
+          }
+        ],
+        "slots": 0,
+        "constructionTime": 86400.0,
+        "description": "",
+        "container": "",
+        "autoUpgrade": true,
+        "displayInterface": true,
+        "improvements": [
+          {
+            "id": "639199277a9178252d38c990",
+            "requirements": [
+              {
+                "templateId": "5e2af47786f7746d404f3aaa",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "isSpawnedInSession": false,
+                "type": "Item"
+              }
+            ],
+            "bonuses": [
+              {
+                "id": "64f5b9e5fa34f11b3807572d",
+                "value": -5,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "type": "FuelConsumption"
+              },
+              {
+                "id": "64f5b9e5fa34f11b3807572e",
+                "value": 5.0,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "type": "EnergyRegeneration"
+              },
+              {
+                "id": "64f5b9e5fa34f11b3807572f",
+                "value": 5.0,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "type": "HealthRegeneration"
+              },
+              {
+                "id": "64f5b9e5fa34f11b38075730",
+                "value": 3.0,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "type": "ExperienceRate"
+              },
+              {
+                "id": "64f5b9e5fa34f11b38075731",
+                "value": 3.0,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "skillType": "Combat",
+                "type": "SkillGroupLevelingBoost"
+              }
+            ],
+            "improvementTime": 300.0
+          }
+        ],
+        "globalCounterId": null
+      },
+      "4": {
+        "requirements": [
+          {
+            "templateId": "63a0b208f444d32d6f03ea1e",
+            "count": 1,
+            "isFunctional": false,
+            "isEncoded": false,
+            "isSpawnedInSession": false,
+            "type": "Item"
+          }
+        ],
+        "bonuses": [
+          {
+            "id": "64f5b9e5fa34f11b38075746",
+            "value": 5,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "FuelConsumption"
+          },
+          {
+            "id": "64f5b9e5fa34f11b38075747",
+            "value": -5.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "EnergyRegeneration"
+          },
+          {
+            "id": "64f5b9e5fa34f11b38075748",
+            "value": -5.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "HealthRegeneration"
+          },
+          {
+            "id": "64f5b9e5fa34f11b38075749",
+            "value": -3.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "ExperienceRate"
+          },
+          {
+            "id": "64f5b9e5fa34f11b3807574a",
+            "value": -3.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "skillType": "Physical",
+            "type": "SkillGroupLevelingBoost"
+          }
+        ],
+        "slots": 0,
+        "constructionTime": 10800.0,
+        "description": "",
+        "container": "",
+        "autoUpgrade": false,
+        "displayInterface": true,
+        "improvements": [
+          {
+            "id": "639199277a9178252d38c991",
+            "requirements": [
+              {
+                "templateId": "5e2af47786f7746d404f3aaa",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "isSpawnedInSession": false,
+                "type": "Item"
+              }
+            ],
+            "bonuses": [
+              {
+                "id": "64f5b9e5fa34f11b38075741",
+                "value": -8,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "type": "FuelConsumption"
+              },
+              {
+                "id": "64f5b9e5fa34f11b38075742",
+                "value": 8.0,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "type": "EnergyRegeneration"
+              },
+              {
+                "id": "64f5b9e5fa34f11b38075743",
+                "value": 8.0,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "type": "HealthRegeneration"
+              },
+              {
+                "id": "64f5b9e5fa34f11b38075744",
+                "value": 5.0,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "type": "ExperienceRate"
+              },
+              {
+                "id": "64f5b9e5fa34f11b38075745",
+                "value": 5.0,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "skillType": "Physical",
+                "type": "SkillGroupLevelingBoost"
+              }
+            ],
+            "improvementTime": 300.0
+          }
+        ],
+        "globalCounterId": null
+      },
+      "5": {
+        "requirements": [
+          {
+            "templateId": "5d40419286f774318526545f",
+            "count": 1,
+            "isFunctional": false,
+            "isEncoded": false,
+            "isSpawnedInSession": true,
+            "type": "Item"
+          },
+          {
+            "templateId": "590c2e1186f77425357b6124",
+            "count": 1,
+            "isFunctional": false,
+            "isEncoded": false,
+            "isSpawnedInSession": true,
+            "type": "Item"
+          }
+        ],
+        "bonuses": [
+          {
+            "id": "64f5b9e5fa34f11b3807575a",
+            "value": 5,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "FuelConsumption"
+          },
+          {
+            "id": "64f5b9e5fa34f11b3807575b",
+            "value": -5.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "EnergyRegeneration"
+          },
+          {
+            "id": "64f5b9e5fa34f11b3807575c",
+            "value": -5.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "HealthRegeneration"
+          },
+          {
+            "id": "64f5b9e5fa34f11b3807575d",
+            "value": -3.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "ExperienceRate"
+          },
+          {
+            "id": "64f5b9e5fa34f11b3807575e",
+            "value": -3.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "skillType": "Physical",
+            "type": "SkillGroupLevelingBoost"
+          }
+        ],
+        "slots": 0,
+        "constructionTime": 10800.0,
+        "description": "",
+        "container": "",
+        "autoUpgrade": false,
+        "displayInterface": true,
+        "improvements": [
+          {
+            "id": "639199277a9178252d38c992",
+            "requirements": [
+              {
+                "templateId": "5e2af47786f7746d404f3aaa",
+                "count": 1,
+                "isFunctional": false,
+                "isEncoded": false,
+                "isSpawnedInSession": false,
+                "type": "Item"
+              }
+            ],
+            "bonuses": [
+              {
+                "id": "64f5b9e5fa34f11b38075755",
+                "value": -10,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "type": "FuelConsumption"
+              },
+              {
+                "id": "64f5b9e5fa34f11b38075756",
+                "value": 10.0,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "type": "EnergyRegeneration"
+              },
+              {
+                "id": "64f5b9e5fa34f11b38075757",
+                "value": 10.0,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "type": "HealthRegeneration"
+              },
+              {
+                "id": "64f5b9e5fa34f11b38075758",
+                "value": 6.0,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "type": "ExperienceRate"
+              },
+              {
+                "id": "64f5b9e5fa34f11b38075759",
+                "value": 6.0,
+                "passive": true,
+                "production": false,
+                "visible": true,
+                "skillType": "Physical",
+                "type": "SkillGroupLevelingBoost"
+              }
+            ],
+            "improvementTime": 300.0
+          }
+        ],
+        "globalCounterId": null
+      },
+      "6": {
+        "requirements": [
+          {
+            "templateId": "59e35cbb86f7741778269d83",
+            "count": 2,
+            "isFunctional": false,
+            "isEncoded": false,
+            "isSpawnedInSession": false,
+            "type": "Item"
+          },
+          {
+            "templateId": "57347c1124597737fb1379e3",
+            "count": 1,
+            "isFunctional": false,
+            "isEncoded": false,
+            "isSpawnedInSession": false,
+            "type": "Item"
+          },
+          {
+            "templateId": "590c2e1186f77425357b6124",
+            "count": 1,
+            "isFunctional": false,
+            "isEncoded": false,
+            "isSpawnedInSession": true,
+            "type": "Item"
+          },
+          {
+            "templateId": "5af04b6486f774195a3ebb49",
+            "count": 1,
+            "isFunctional": false,
+            "isEncoded": false,
+            "isSpawnedInSession": true,
+            "type": "Item"
+          },
+          {
+            "templateId": "61bf7b6302b3924be92fa8c3",
+            "count": 5,
+            "isFunctional": false,
+            "isEncoded": false,
+            "isSpawnedInSession": false,
+            "type": "Item"
+          },
+          {
+            "templateId": "590c346786f77423e50ed342",
+            "count": 1,
+            "isFunctional": false,
+            "isEncoded": false,
+            "isSpawnedInSession": false,
+            "type": "Item"
+          },
+          {
+            "templateId": "5c06779c86f77426e00dd782",
+            "count": 2,
+            "isFunctional": false,
+            "isEncoded": false,
+            "isSpawnedInSession": false,
+            "type": "Item"
+          },
+          {
+            "templateId": "5d1b392c86f77425243e98fe",
+            "count": 2,
+            "isFunctional": false,
+            "isEncoded": false,
+            "isSpawnedInSession": false,
+            "type": "Item"
+          }
+        ],
+        "bonuses": [
+          {
+            "id": "64f5b9e5fa34f11b38075764",
+            "value": -20,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "FuelConsumption"
+          },
+          {
+            "id": "64f5b9e5fa34f11b38075765",
+            "value": 20.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "EnergyRegeneration"
+          },
+          {
+            "id": "64f5b9e5fa34f11b38075766",
+            "value": 20.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "HealthRegeneration"
+          },
+          {
+            "id": "64f5b9e5fa34f11b38075767",
+            "value": 12.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "type": "ExperienceRate"
+          },
+          {
+            "id": "64f5b9e5fa34f11b38075768",
+            "value": 12.0,
+            "passive": true,
+            "production": false,
+            "visible": true,
+            "skillType": "Physical",
+            "type": "SkillGroupLevelingBoost"
+          }
+        ],
+        "slots": 0,
+        "constructionTime": 43200.0,
+        "description": "",
+        "container": "",
+        "autoUpgrade": false,
+        "displayInterface": false,
         "improvements": [],
         "globalCounterId": null
       }
