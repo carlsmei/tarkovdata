@@ -10758,7 +10758,7 @@
       "showProgress": false,
       "prefab": "",
       "rarity": "Legendary",
-      "hidden": true,
+      "hidden": false,
       "showConditions": false,
       "progressBarEnabled": false,
       "side": "All",
